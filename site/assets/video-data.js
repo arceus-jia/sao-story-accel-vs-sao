@@ -1,0 +1,1 @@
+window.STORY_VIDEOS=[{"id":"v10fe0d040d38b97f47b4","src":"assets/videos/v10fe0d040d38b97f47b4.mp4","poster":"assets/videos/v10fe0d040d38b97f47b4.webp","bytes":23816563,"title":"Opening Movie","category":"开场影像","duration":98.133333,"audio":true}];
