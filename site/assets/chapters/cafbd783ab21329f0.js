@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cafbd783ab21329f0"]={"id":"cafbd783ab21329f0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_07_010","id":"TEXT_TALK_WND_TA_ch_rai_07_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"我要亲手开拓自己的道路。","ja":"わたしの道は、自分で切り開きたいんだ。"},"kind":"dialogue"}]};

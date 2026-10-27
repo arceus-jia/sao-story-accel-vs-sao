@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9999408f2a3e79ba"]={"id":"c9999408f2a3e79ba","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_07_010","id":"TEXT_TALK_WND_TA_av_lot_07_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"我的虚拟角色……本来还担心在这世界会不会看起来很突兀，不过似乎只是杞人忧天。","ja":"私のアバター……こちらの世界では奇異に見えるものか心配だったがどうやら杞憂のようだな。"},"kind":"dialogue"}]};

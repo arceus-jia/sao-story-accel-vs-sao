@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbf300aca908b4551"]={"id":"cbf300aca908b4551","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_03_010","id":"TEXT_TALK_WND_TA_av_leo_03_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"这里ＮＰ。","ja":"こちらの状況、ＮＰ。"},"kind":"dialogue"}]};

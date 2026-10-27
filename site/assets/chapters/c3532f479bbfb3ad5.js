@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3532f479bbfb3ad5"]={"id":"c3532f479bbfb3ad5","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ali_06_010","id":"TEXT_TALK_WND_TA_ch_ali_06_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"听说最近出现了一个很喜欢蹭蹭猫妖女孩的怪女生喔♪","ja":"最近ケットシーの娘たちをモフモフしたがる変な女の子が出没するって話だヨ♪"},"kind":"dialogue"}]};

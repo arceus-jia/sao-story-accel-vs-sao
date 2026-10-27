@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c918f07ef7c6897c4"]={"id":"c918f07ef7c6897c4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_04_010","id":"TEXT_TALK_WND_TA_ch_met_04_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"我是远远超越你们的高次元存在。","ja":"私はおまえ達よりも遥か高次元の存在なのですよ。"},"kind":"dialogue"}]};

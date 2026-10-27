@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbd194e21f46437d3"]={"id":"cbd194e21f46437d3","lines":[{"uid":"TEXT_TALK_WND_EP_11_06_010","id":"TEXT_TALK_WND_EP_11_06_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"据说草原的上层是虫子女王的地盘。呵呵，到底是怎样的家伙呢？","ja":"草原の上層に虫の女王の縄張りがあるって噂よ。ふふ、どんなやつだろうね？"},"kind":"dialogue"}]};

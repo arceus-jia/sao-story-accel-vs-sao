@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7fdb0e90f46b231d"]={"id":"c7fdb0e90f46b231d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_03_010","id":"TEXT_TALK_WND_TA_ch_kle_03_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"哎唷……要受女生欢迎可得更绅士一点才行啊，嗯！","ja":"おっと……モテるためにはもっと紳士にならなくっちゃな、うん！"},"kind":"dialogue"}]};

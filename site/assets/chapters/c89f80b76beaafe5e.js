@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c89f80b76beaafe5e"]={"id":"c89f80b76beaafe5e","lines":[{"uid":"TEXT_TALK_WND_EP_15_07_010","id":"TEXT_TALK_WND_EP_15_07_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"好了，差不多该注销了。等下次平安再会的时候再听你们的好消息啊。","ja":"さて、ぼちぼちログアウトするかな。また無事に再会できたときにはいい報告待ってるよ。"},"kind":"dialogue"}]};

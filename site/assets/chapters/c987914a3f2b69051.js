@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c987914a3f2b69051"]={"id":"c987914a3f2b69051","lines":[{"uid":"TEXT_TALK_WND_TA_av_rak_07_010","id":"TEXT_TALK_WND_TA_av_rak_07_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"犯错的时候，我会给予惩罚的唷。","ja":"間違いが起きたときはわたしが、お仕置きしてあげますから。"},"kind":"dialogue"}]};

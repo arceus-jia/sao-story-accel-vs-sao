@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0bba77b4e034a760"]={"id":"c0bba77b4e034a760","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yun_02_010","id":"TEXT_TALK_WND_TA_ch_yun_02_010","speaker":{"cn":"尤娜","ja":"ユナ"},"text":{"cn":"献给身为今天ＭＶＰ的你……恭喜！","ja":"今日のＭＶＰのあなたへ……おめでとう！"},"kind":"dialogue"}]};

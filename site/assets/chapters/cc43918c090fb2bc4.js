@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc43918c090fb2bc4"]={"id":"cc43918c090fb2bc4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_arg_06_010","id":"TEXT_TALK_WND_TA_ch_arg_06_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"独家才更有价值……情报就是这样的东西。","ja":"独占するからこそ価値がでる……それが情報ってもんサ。"},"kind":"dialogue"}]};

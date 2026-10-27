@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8cdb29be6d54f0ea"]={"id":"c8cdb29be6d54f0ea","lines":[{"uid":"TEXT_TALK_WND_EP_12_11_010","id":"TEXT_TALK_WND_EP_12_11_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"出现在沙漠最上层带状环岛的控制台你已经调查过了吗？","ja":"砂漠の最上層の帯環島に現れたコンソールはもう調べた？"},"kind":"dialogue"}]};

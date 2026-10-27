@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cdd715e870ae44174"]={"id":"cdd715e870ae44174","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_07_010","id":"TEXT_TALK_WND_TA_ch_str_07_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"下次来试着做新的抱枕吧♪","ja":"今度、新しい抱き枕作ってみよっかな♪"},"kind":"dialogue"}]};

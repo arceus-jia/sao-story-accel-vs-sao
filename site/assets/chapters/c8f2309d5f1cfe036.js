@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8f2309d5f1cfe036"]={"id":"c8f2309d5f1cfe036","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_08_010","id":"TEXT_TALK_WND_TA_ch_asu_08_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"真想帮结衣买很多适合她的衣服啊。","ja":"ユイちゃんに似合いそうな服いっぱい用意してあげたいな。"},"kind":"dialogue"}]};

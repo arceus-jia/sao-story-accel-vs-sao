@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca9971380d77955f5"]={"id":"ca9971380d77955f5","lines":[{"uid":"TEXT_TALK_WND_SDB_03_ch_sil_010","id":"TEXT_TALK_WND_SDB_03_ch_sil_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"有没有看到桐人哥呢？","ja":"キリトさんを見かけませんでしたか？"},"kind":"dialogue"}]};

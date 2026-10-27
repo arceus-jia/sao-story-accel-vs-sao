@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5096bfd5e53d9a6c"]={"id":"c5096bfd5e53d9a6c","lines":[{"uid":"TEXT_TALK_WND_EP_14_07_010","id":"TEXT_TALK_WND_EP_14_07_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"找到不小心遇难的孩子了吗？听说她跟控制台一起被冻起来了。","ja":"うっかり遭難した子は見つけたか？コンソールと一緒に凍ってたんだってね。"},"kind":"dialogue"}]};

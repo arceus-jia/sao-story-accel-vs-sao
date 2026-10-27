@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c395def4a169f603e"]={"id":"c395def4a169f603e","lines":[{"uid":"TEXT_TALK_WND_EP_17_03_010","id":"TEXT_TALK_WND_EP_17_03_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"喔，表情不错喔。看来了结了一件事是吗？","ja":"おっ、いい顔してるな。一件落着ってところか？"},"kind":"dialogue"}]};

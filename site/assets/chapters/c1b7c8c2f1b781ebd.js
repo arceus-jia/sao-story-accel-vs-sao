@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1b7c8c2f1b781ebd"]={"id":"c1b7c8c2f1b781ebd","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_08_010","id":"TEXT_TALK_WND_TA_ch_lis_08_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"这个城镇里没人敢违逆狂暴补师……要记住啊♪","ja":"この街でバーサクヒーラーに逆らう者は誰もいないの……覚えておくといいわ♪"},"kind":"dialogue"}]};

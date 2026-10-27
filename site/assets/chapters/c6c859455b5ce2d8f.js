@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6c859455b5ce2d8f"]={"id":"c6c859455b5ce2d8f","lines":[{"uid":"TEXT_TALK_BAL_EP_14_10_010","id":"TEXT_TALK_BAL_EP_14_10_010","speaker":{},"text":{"cn":"真是的，也太会使唤火精灵了……。","ja":"まったく、サラマンダー使いが荒い……。"},"kind":"narration"}]};

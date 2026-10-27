@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfd44e53a397cf1f7"]={"id":"cfd44e53a397cf1f7","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_05_010","id":"TEXT_TALK_WND_TA_av_rol_05_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"幸福是Ｄｏｎ’ｔ ｗａｌｋｉｎｇ的ｂｅｃａｕｓｅ ｒｕｎｎｉｎｇ啦！","ja":"幸せはドント・ウオーキングだからビコーズ・ランニング、さ！"},"kind":"dialogue"}]};

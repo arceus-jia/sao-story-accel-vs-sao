@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c179af48664e6007b"]={"id":"c179af48664e6007b","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_08_010","id":"TEXT_TALK_WND_TA_ch_sil_08_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"想要蹭蹭毛毛？这件事绝对不行～！","ja":"モフモフしたい？それだけはダメです～！"},"kind":"dialogue"}]};

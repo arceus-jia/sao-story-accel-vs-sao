@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbace19cd7dbc3011"]={"id":"cbace19cd7dbc3011","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_07_010","id":"TEXT_TALK_WND_TA_ch_agi_07_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"斯朵蕾雅那家伙……这次又想对我的店捣什么蛋？","ja":"ストレアのやつ……俺の店で今度は何をやるつもりだ？"},"kind":"dialogue"}]};

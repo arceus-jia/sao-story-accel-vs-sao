@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9277db54c55df96f"]={"id":"c9277db54c55df96f","lines":[{"uid":"TEXT_TALK_WND_EP_08_10_010","id":"TEXT_TALK_WND_EP_08_10_010","speaker":{"cn":"玛丽亚","ja":"マリア"},"text":{"cn":"遇上困难时不必客气。〈圣马利亚〉永远都是你的伙伴。","ja":"困ったことがあったら遠慮なく頼って。≪サンタ・マリア≫はいつでも力になるわ。"},"kind":"dialogue"}]};

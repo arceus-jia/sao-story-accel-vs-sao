@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2e8dd6d5c28442a0"]={"id":"c2e8dd6d5c28442a0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_07_010","id":"TEXT_TALK_WND_TA_ch_sin_07_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"发掘各种构筑成这个世界观的神话也是满有趣的呢。","ja":"この世界のモチーフになってる神話をいろいろ辿るのも面白いわね。"},"kind":"dialogue"}]};

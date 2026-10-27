@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce42ef008a8cf3485"]={"id":"ce42ef008a8cf3485","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_06_010","id":"TEXT_TALK_WND_TA_ch_yuu_06_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"真想再跟亚丝娜一起去上学！","ja":"またアスナと一緒に学校行きたいな！"},"kind":"dialogue"}]};

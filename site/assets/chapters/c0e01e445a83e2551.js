@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0e01e445a83e2551"]={"id":"c0e01e445a83e2551","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yui_02_010","id":"TEXT_TALK_WND_TA_ch_yui_02_010","speaker":{"cn":"结衣","ja":"ユイ"},"text":{"cn":"如果有我能帮忙的地方，尽管跟我说！","ja":"わたしにできることがあればなんなりと言ってくださいね！"},"kind":"dialogue"}]};

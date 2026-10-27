@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb0531368278c0e3e"]={"id":"cb0531368278c0e3e","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_03_010","id":"TEXT_TALK_WND_TA_ch_rai_03_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"欢迎回来，主人……呃，讨厌，讲成习惯了啦！？","ja":"お帰りなさいませ、ご主人様……ってやだ、口癖になっちゃった！？"},"kind":"dialogue"}]};

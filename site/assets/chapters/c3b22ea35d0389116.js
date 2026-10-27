@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3b22ea35d0389116"]={"id":"c3b22ea35d0389116","lines":[{"uid":"TEXT_TALK_WND_EP_08_08_010","id":"TEXT_TALK_WND_EP_08_08_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"草原、冰山……照这顺序，接下来是沙漠吗？不知道会是怎样的风景。","ja":"草原、氷山……ときたから次は砂漠か？どんな景観になってるんだろうな。"},"kind":"dialogue"}]};

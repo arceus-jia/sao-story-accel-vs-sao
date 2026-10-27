@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1d2b74d3a4c3fd97"]={"id":"c1d2b74d3a4c3fd97","lines":[{"uid":"TEXT_TALK_WND_TA_av_wri_02_010","id":"TEXT_TALK_WND_TA_av_wri_02_010","speaker":{"cn":"Tin Writer","ja":"ブリキ・ライター"},"text":{"cn":"在孤独深渊中低吟的纯洁灵魂。任谁都可能被黑暗侵蚀，没错，任何人。","ja":"孤独の深淵に沈吟する無垢な魂。何者も闇に染まり得る、そう、何者もね。"},"kind":"dialogue"}]};

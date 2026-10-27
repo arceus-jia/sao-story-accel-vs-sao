@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccc066f6ea404bed4"]={"id":"ccc066f6ea404bed4","lines":[{"uid":"TEXT_ADV_MAIN_0060410010","id":"TEXT_ADV_MAIN_0060410010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"好，设备在运作了。","ja":"よし、ポータルは起動してるな。"},"kind":"dialogue"}]};

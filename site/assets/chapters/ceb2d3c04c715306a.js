@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ceb2d3c04c715306a"]={"id":"ceb2d3c04c715306a","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_04_010","id":"TEXT_TALK_WND_TA_ch_phi_04_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"你查看过新的任务吗？","ja":"新しいクエスト、チェックしてる？"},"kind":"dialogue"}]};

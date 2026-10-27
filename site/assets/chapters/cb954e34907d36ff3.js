@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb954e34907d36ff3"]={"id":"cb954e34907d36ff3","lines":[{"uid":"TEXT_TALK_WND_SU_23_010","id":"TEXT_TALK_WND_SU_23_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"多亏了你们，冰山的污染已经完全去除了。谢谢，这是我给你们的报酬。","ja":"キミ達のおかげで氷山の穢れは完全に払われた。ありがとう、これは私からの報酬だ。"},"kind":"dialogue"}]};

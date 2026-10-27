@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c68ccb769d82a5c54"]={"id":"c68ccb769d82a5c54","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ego_02_010","id":"TEXT_TALK_WND_TA_ch_ego_02_010","speaker":{"cn":"尤吉欧","ja":"ユージオ"},"text":{"cn":"这世界的大家都有翅膀耶。","ja":"この世界の人はみんな翅があるんだね。"},"kind":"dialogue"}]};

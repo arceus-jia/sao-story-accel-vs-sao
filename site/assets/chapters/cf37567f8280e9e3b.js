@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf37567f8280e9e3b"]={"id":"cf37567f8280e9e3b","lines":[{"uid":"TEXT_MAIL_FQ16_001_BEAR_TITLE","id":"TEXT_MAIL_FQ16_001_BEAR_TITLE","speaker":{},"text":{"cn":"花，真令人讨厌啊","ja":"花、気に入らないねェ"},"kind":"narration"}]};

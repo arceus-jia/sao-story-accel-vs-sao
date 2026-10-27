@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0bb26e2b4866104a"]={"id":"c0bb26e2b4866104a","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_07_010","id":"TEXT_TALK_WND_TA_av_mai_07_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"养在学校里的动物们都很有精神喔！","ja":"学校で飼育している動物たちはみんな元気なのです！"},"kind":"dialogue"}]};

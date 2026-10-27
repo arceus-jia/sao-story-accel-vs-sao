@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c31352931a477c0a4"]={"id":"c31352931a477c0a4","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_03_010","id":"TEXT_TALK_WND_TA_av_cro_03_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"唔哇，好美的夕阳……真想让学姊也看看啊。","ja":"うわぁ、キレイな夕焼け……先輩にも見せてあげたいな。"},"kind":"dialogue"}]};

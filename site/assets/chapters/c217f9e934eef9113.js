@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c217f9e934eef9113"]={"id":"c217f9e934eef9113","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_08_010","id":"TEXT_TALK_WND_TA_av_rai_08_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"碰上应付不了的战斗就让我来帮忙吧！","ja":"手に負えない戦いならあたしが加勢してやるぜ！"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccf6a5d1acd43740a"]={"id":"ccf6a5d1acd43740a","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_03_010","id":"TEXT_TALK_WND_TA_av_mai_03_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"聚集了各个不同种族的人非常热闹呢。","ja":"いろんな種族の人たちがいてとてもにぎやかなのです。"},"kind":"dialogue"}]};

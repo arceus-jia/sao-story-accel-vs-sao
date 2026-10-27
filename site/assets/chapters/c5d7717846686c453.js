@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5d7717846686c453"]={"id":"c5d7717846686c453","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_02_010","id":"TEXT_TALK_WND_TA_av_cur_02_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"我的伪装虚拟角色，感觉有点太男孩子气了。","ja":"私のダミーアバターちょっとボーイッシュすぎかもと思うの。"},"kind":"dialogue"}]};

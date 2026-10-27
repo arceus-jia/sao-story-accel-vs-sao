@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf7b0f372f3c51296"]={"id":"cf7b0f372f3c51296","lines":[{"uid":"TEXT_TALK_WND_TA_av_rak_08_010","id":"TEXT_TALK_WND_TA_av_rak_08_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"我真的很感谢鸦同学喔。","ja":"鴉さんには本当にとても感謝しているのですよ。"},"kind":"dialogue"}]};

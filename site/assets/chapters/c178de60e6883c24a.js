@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c178de60e6883c24a"]={"id":"c178de60e6883c24a","lines":[{"uid":"TEXT_TALK_WND_EP_11_03_010","id":"TEXT_TALK_WND_EP_11_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"似乎在草原上空发现了控制室。要去看看吗？","ja":"草原の上空にコンソールルームが見つかったらしいね。行ってみた？"},"kind":"dialogue"}]};

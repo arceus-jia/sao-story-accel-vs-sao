@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6b14f5128d225a05"]={"id":"c6b14f5128d225a05","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_10_010","id":"TEXT_TALK_WND_TA_av_lot_10_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"耳闻了狂暴补师的传言，感觉与之为敌会是个可怕的对手啊。","ja":"バーサクヒーラーのウワサを耳にしたが敵にまわすと恐ろしい相手になりそうだ。"},"kind":"dialogue"}]};

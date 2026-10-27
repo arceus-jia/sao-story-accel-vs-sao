@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb006ab603e159539"]={"id":"cb006ab603e159539","lines":[{"uid":"TEXT_TALK_WND_EP_07_02_010","id":"TEXT_TALK_WND_EP_07_02_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"风林火山的领袖似乎就在冰山。风林冰山……不，没什么事。","ja":"風林火山のリーダーが氷山にいたらしいぞ。風林氷山……いや、なんでもない。"},"kind":"dialogue"}]};

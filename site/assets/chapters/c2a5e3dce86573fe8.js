@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2a5e3dce86573fe8"]={"id":"c2a5e3dce86573fe8","lines":[{"uid":"TEXT_TALK_WND_NTD_av_lot_010","id":"TEXT_TALK_WND_NTD_av_lot_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"没什么事。","ja":"特に用は無いな。"},"kind":"dialogue"}]};

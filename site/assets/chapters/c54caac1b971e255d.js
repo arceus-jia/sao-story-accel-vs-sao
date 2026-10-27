@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c54caac1b971e255d"]={"id":"c54caac1b971e255d","lines":[{"uid":"TEXT_ADV_MAIN_0030430010","id":"TEXT_ADV_MAIN_0030430010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"好惊人……冰层底下可以看见都市。","ja":"不思議ね……氷の下に都市が見えるわ。"},"kind":"dialogue"}]};

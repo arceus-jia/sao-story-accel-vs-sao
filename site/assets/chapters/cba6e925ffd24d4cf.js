@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cba6e925ffd24d4cf"]={"id":"cba6e925ffd24d4cf","lines":[{"uid":"TEXT_TALK_WND_TA_av_wri_03_010","id":"TEXT_TALK_WND_TA_av_wri_03_010","speaker":{"cn":"Tin Writer","ja":"ブリキ・ライター"},"text":{"cn":"真不可思议，只要待在这个世界里，似乎就能刺激我写作的灵魂。","ja":"不思議だね、この世界にいると物書きとしての魂が刺激されるようだ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c00f1497d25f1f197"]={"id":"c00f1497d25f1f197","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_05_010","id":"TEXT_TALK_WND_TA_av_bel_05_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"肚子饿了……真想吃妈妈做的千层面啊……。","ja":"お腹減った……ママのラザニア食べたいな……。"},"kind":"dialogue"}]};

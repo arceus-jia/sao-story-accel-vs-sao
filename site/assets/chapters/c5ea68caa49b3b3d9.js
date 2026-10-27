@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5ea68caa49b3b3d9"]={"id":"c5ea68caa49b3b3d9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_08_010","id":"TEXT_TALK_WND_TA_ch_phi_08_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"有没有能让宝藏猎人大显身手的新任务？","ja":"トレジャーハンターが活躍できそうな新しいクエストないかなぁ？"},"kind":"dialogue"}]};

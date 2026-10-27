@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c83e7efb88d4256cd"]={"id":"c83e7efb88d4256cd","lines":[{"uid":"TEXT_TALK_WND_EP_09_07_010","id":"TEXT_TALK_WND_EP_09_07_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"我有看到戴眼镜四四方方的虚拟角色喔。感觉他很博学的样子呢。","ja":"眼鏡をかけた四角いアバターを見かけたよ。なかなか博識そうだったなぁ。"},"kind":"dialogue"}]};

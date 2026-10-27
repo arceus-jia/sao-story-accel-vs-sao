@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9587e1aeb8a42977"]={"id":"c9587e1aeb8a42977","lines":[{"uid":"TEXT_TALK_WND_EP_07_08_010","id":"TEXT_TALK_WND_EP_07_08_010","speaker":{"cn":"爱梅莉亚","ja":"アメリア"},"text":{"cn":"帮一下嘛～！　小猪猪～！","ja":"手伝ってよ～！　ぶーぶー！"},"kind":"dialogue"}]};

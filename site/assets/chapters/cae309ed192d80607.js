@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cae309ed192d80607"]={"id":"cae309ed192d80607","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_06_010","id":"TEXT_TALK_WND_TA_av_rol_06_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"纶，对不起……大哥我是这付样子……。","ja":"綸、すまねえな……こんな兄貴でよ……。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf43021b2cc5e672b"]={"id":"cf43021b2cc5e672b","lines":[{"uid":"TEXT_TALK_WND_NTD_ch_sil_010","id":"TEXT_TALK_WND_NTD_ch_sil_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"没什么事情呢。","ja":"特に用はありませんね。"},"kind":"dialogue"}]};

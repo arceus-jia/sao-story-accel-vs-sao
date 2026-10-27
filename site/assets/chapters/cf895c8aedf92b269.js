@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf895c8aedf92b269"]={"id":"cf895c8aedf92b269","lines":[{"uid":"TEXT_TALK_WND_EP_08_05_010","id":"TEXT_TALK_WND_EP_08_05_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"要去冰山中央的神殿对吧？自己多小心。","ja":"氷山中央の神殿に行くんだね。気を付けて。"},"kind":"dialogue"}]};

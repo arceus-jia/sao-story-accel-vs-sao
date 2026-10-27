@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5932eee432822060"]={"id":"c5932eee432822060","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_03_010","id":"TEXT_TALK_WND_TA_ch_yuu_03_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"绝剑这个绰号……真是让人有点不好意思啊。","ja":"絶剣って呼び名……ちょっと照れくさいなぁ。"},"kind":"dialogue"}]};

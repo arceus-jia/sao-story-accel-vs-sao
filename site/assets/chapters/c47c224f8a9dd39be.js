@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c47c224f8a9dd39be"]={"id":"c47c224f8a9dd39be","lines":[{"uid":"TEXT_TALK_WND_EP_14_05_010","id":"TEXT_TALK_WND_EP_14_05_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"该不会……你在塔里还有事情没办完吧？","ja":"ひょっとして……まだ塔でやり残したことがあるんじゃない？"},"kind":"dialogue"}]};

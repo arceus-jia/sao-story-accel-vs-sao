@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c218ce940098210e3"]={"id":"c218ce940098210e3","lines":[{"uid":"TEXT_TALK_WND_EP_05_03_010","id":"TEXT_TALK_WND_EP_05_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"如果不消除屏障的话哪都去不了……要是有什么线索就好了啊。","ja":"障壁を取り除かないとどこにも行けない……少しでも手掛かりがあるといいんだけど。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c682e12128bc390a0"]={"id":"c682e12128bc390a0","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_07_010","id":"TEXT_TALK_WND_TA_av_bel_07_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"唔呼，那个猫妖大姊姊……身上的毛感觉好好摸喔！","ja":"うほっ、あのケットシーのおねーさん……モフモフ具合が良さそうですなぁ！"},"kind":"dialogue"}]};

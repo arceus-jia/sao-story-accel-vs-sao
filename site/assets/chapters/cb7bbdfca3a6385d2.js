@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb7bbdfca3a6385d2"]={"id":"cb7bbdfca3a6385d2","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_07_010","id":"TEXT_TALK_WND_TA_av_cro_07_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"在这个游戏的世界里……我还想飞得更高、更高。","ja":"このゲームの世界で……もっともっと、高く飛んでみたいな。"},"kind":"dialogue"}]};

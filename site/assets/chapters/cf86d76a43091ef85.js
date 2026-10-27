@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf86d76a43091ef85"]={"id":"cf86d76a43091ef85","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_01_010","id":"TEXT_TALK_WND_TA_av_cur_01_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"我已经不会再封印记忆了，请放心。","ja":"もう記憶を封じることはないから安心していいの。"},"kind":"dialogue"}]};

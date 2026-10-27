@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c01d2831d77bf2ae9"]={"id":"c01d2831d77bf2ae9","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_08_010","id":"TEXT_TALK_WND_TA_av_cro_08_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"桐人先生他们真是理想的情侣呢。","ja":"キリトさんたちってホント理想のカップルだよなぁ。"},"kind":"dialogue"}]};

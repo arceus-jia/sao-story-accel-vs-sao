@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c25f0a43edde21884"]={"id":"c25f0a43edde21884","lines":[{"uid":"TEXT_TALK_WND_EP_04_03_010","id":"TEXT_TALK_WND_EP_04_03_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"草原的耕地上似乎出现神秘的门。","ja":"謎のゲートが草原の耕地に現れたらしいね。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccee04724d1aca001"]={"id":"ccee04724d1aca001","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_07_010","id":"TEXT_TALK_WND_TA_ch_lis_07_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"看来我的锻造技术还有提升的余地啊。","ja":"あたしの鍛冶の腕もまだまだ鍛えられるわね。"},"kind":"dialogue"}]};

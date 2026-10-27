@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c278a689051d4f5a4"]={"id":"c278a689051d4f5a4","lines":[{"uid":"TEXT_MAIL_DUMY_TEXT000","id":"TEXT_MAIL_DUMY_TEXT000","speaker":{},"text":{"ja":"１２３４５６７８９０２２３４５６７８９０３２３４５６７８９０２３４５６７８９１０"},"kind":"narration"}]};

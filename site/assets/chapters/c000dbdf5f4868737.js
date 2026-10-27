@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c000dbdf5f4868737"]={"id":"c000dbdf5f4868737","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_05_010","id":"TEXT_TALK_WND_TA_ch_asu_05_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"我得振作点才行……嗯！","ja":"わたしがしっかりしなきゃ……うん！"},"kind":"dialogue"}]};

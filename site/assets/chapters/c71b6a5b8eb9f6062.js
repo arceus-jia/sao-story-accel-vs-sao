@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c71b6a5b8eb9f6062"]={"id":"c71b6a5b8eb9f6062","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_01_010","id":"TEXT_TALK_WND_TA_ch_yuu_01_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"快！　来对战吧！","ja":"ねえねえ！　デュエルしようよ！"},"kind":"dialogue"}]};

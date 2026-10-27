@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c744826fd64ec20d5"]={"id":"c744826fd64ec20d5","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_03_010","id":"TEXT_TALK_WND_TA_av_rai_03_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"……拜托，足控千万别再来了。","ja":"……脚フェチだけは、ホント勘弁な。"},"kind":"dialogue"}]};

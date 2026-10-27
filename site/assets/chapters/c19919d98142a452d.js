@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c19919d98142a452d"]={"id":"c19919d98142a452d","lines":[{"uid":"TEXT_TALK_BAL_AR_55_010","id":"TEXT_TALK_BAL_AR_55_010","speaker":{},"text":{"cn":"最重要的是每天锻炼还有灵感。","ja":"大事なのは日々の鍛練と閃きだよ。"},"kind":"narration"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd43550112adc695b"]={"id":"cd43550112adc695b","lines":[{"uid":"TEXT_TALK_WND_SDQ_11_ch_lis_010","id":"TEXT_TALK_WND_SDQ_11_ch_lis_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"亚丝娜，真是慢啊……。","ja":"アスナ、遅いわねえ……。"},"kind":"dialogue"}]};

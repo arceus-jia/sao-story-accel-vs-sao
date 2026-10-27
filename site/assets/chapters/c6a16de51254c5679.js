@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6a16de51254c5679"]={"id":"c6a16de51254c5679","lines":[{"uid":"TEXT_TALK_WND_EP_15_08_010","id":"TEXT_TALK_WND_EP_15_08_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"要挑战〈神兽级公敌〉？整顿好装备后再去啊！","ja":"≪神獣級エネミー≫に挑むって？しっかり装備を整えて行けよ！"},"kind":"dialogue"}]};

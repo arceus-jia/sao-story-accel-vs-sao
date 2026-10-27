@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c59eadb5c71cc5910"]={"id":"c59eadb5c71cc5910","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_09_010","id":"TEXT_TALK_WND_TA_av_lot_09_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"纠缠Ｒａｋｅｒ的那个男人……真是不知死活啊。","ja":"レイカーにつきまとう、あの男……なかなかの命知らずだな。"},"kind":"dialogue"}]};

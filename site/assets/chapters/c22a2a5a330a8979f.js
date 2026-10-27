@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c22a2a5a330a8979f"]={"id":"c22a2a5a330a8979f","lines":[{"uid":"TEXT_TALK_WND_TA_av_rak_06_010","id":"TEXT_TALK_WND_TA_av_rak_06_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"唔呵呵，克莱因真是的……。","ja":"ウフフ、クラインさんったら……。"},"kind":"dialogue"}]};

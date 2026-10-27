@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c36883b3e9c97f257"]={"id":"c36883b3e9c97f257","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_01_010","id":"TEXT_TALK_WND_TA_ch_sin_01_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"……风向良好，这是最适合射击的风了。","ja":"……風向きは良好射撃には、もってこいの風ね。"},"kind":"dialogue"}]};

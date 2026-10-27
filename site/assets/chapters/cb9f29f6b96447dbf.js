@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb9f29f6b96447dbf"]={"id":"cb9f29f6b96447dbf","lines":[{"uid":"TEXT_TALK_WND_SDB_07_av_rai_020","id":"TEXT_TALK_WND_SDB_07_av_rai_020","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"我想跟诗音好好地聊一次啊。","ja":"シノンとは一度じっくり話してみてえな。"},"kind":"dialogue"}]};

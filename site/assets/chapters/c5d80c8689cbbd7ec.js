@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5d80c8689cbbd7ec"]={"id":"c5d80c8689cbbd7ec","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_05_010","id":"TEXT_TALK_WND_TA_av_leo_05_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"猫妖狙击手，ＧＪ。","ja":"ケットシーの狙撃手、ＧＪ。"},"kind":"dialogue"}]};

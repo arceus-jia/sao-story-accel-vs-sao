@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc0b7275b54e38334"]={"id":"cc0b7275b54e38334","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lux_02_010","id":"TEXT_TALK_WND_TA_ch_lux_02_010","speaker":{"cn":"露可思","ja":"ルクス"},"text":{"cn":"好的，谢谢你找我。","ja":"ああ、声をかけてくれてありがとう。"},"kind":"dialogue"}]};

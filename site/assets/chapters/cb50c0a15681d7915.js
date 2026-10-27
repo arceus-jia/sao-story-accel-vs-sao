@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb50c0a15681d7915"]={"id":"cb50c0a15681d7915","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sak_06_010","id":"TEXT_TALK_WND_TA_ch_sak_06_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"亚丽莎那家伙，居然在睡着的我脸上画胡子……","ja":"アリシャめ、寝ている私の顔にヒゲを描きおって……"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbeb591ba3cb4d416"]={"id":"cbeb591ba3cb4d416","lines":[{"uid":"TEXT_TALK_BAL_CA_70_010","id":"TEXT_TALK_BAL_CA_70_010","speaker":{},"text":{"cn":"这个跟那个……我全都想要啊！","ja":"これとそれと……全部欲しいな！"},"kind":"narration"}]};

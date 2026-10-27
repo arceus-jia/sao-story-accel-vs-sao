@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5e3d9bd2f9cbe8a9"]={"id":"c5e3d9bd2f9cbe8a9","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_06_010","id":"TEXT_TALK_WND_TA_av_lot_06_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"或许我也该多磨练料理技能才是。","ja":"私も、もっと料理のスキルを鍛えるべきかもしれんな。"},"kind":"dialogue"}]};

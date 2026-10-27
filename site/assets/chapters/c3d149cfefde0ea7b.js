@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3d149cfefde0ea7b"]={"id":"c3d149cfefde0ea7b","lines":[{"uid":"TEXT_TALK_WND_EP_06_02_010","id":"TEXT_TALK_WND_EP_06_02_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"你说草原的屏障消失了？这下就能去废墟大楼群的北边了呢。","ja":"草原の障壁が消えたんだって？これで廃墟ビル群の北側にも行けるね。"},"kind":"dialogue"}]};

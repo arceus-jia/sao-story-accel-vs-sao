@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1193e3bb88ecaddf"]={"id":"c1193e3bb88ecaddf","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_05_010","id":"TEXT_TALK_WND_TA_av_lot_05_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"要是能跟春雪一起在这街上散步的话……我到底在想什么啊！","ja":"ハルユキ君と一緒に、この街を歩けたら……って何を考えてるんだ、私は！"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cad0e84c055705bc5"]={"id":"cad0e84c055705bc5","lines":[{"uid":"TEXT_TALK_WND_SDEV_39_ch_asu_020","id":"TEXT_TALK_WND_SDEV_39_ch_asu_020","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"桐人在哪里呢？","ja":"キリトくんはどこかな？"},"kind":"dialogue"}]};

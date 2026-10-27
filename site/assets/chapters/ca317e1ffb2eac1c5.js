@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca317e1ffb2eac1c5"]={"id":"ca317e1ffb2eac1c5","lines":[{"uid":"TEXT_TALK_WND_SDQ_03_ch_sin_010","id":"TEXT_TALK_WND_SDQ_03_ch_sin_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"桐人，真是慢啊……。","ja":"キリト、遅いわね……。"},"kind":"dialogue"}]};

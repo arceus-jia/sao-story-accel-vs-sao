@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0ae8504c71fd76dc"]={"id":"c0ae8504c71fd76dc","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_07_010","id":"TEXT_TALK_WND_TA_ch_asu_07_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"累了的话，就别勉强自己喔。","ja":"疲れたら、無理しなくていいからね。"},"kind":"dialogue"}]};

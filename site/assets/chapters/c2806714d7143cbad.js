@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2806714d7143cbad"]={"id":"c2806714d7143cbad","lines":[{"uid":"TEXT_TALK_WND_TA_ch_obe_02_010","id":"TEXT_TALK_WND_TA_ch_obe_02_010","speaker":{"cn":"奥伯龙","ja":"オベイロン"},"text":{"cn":"哼，和下贱的人无话可说。","ja":"フン、下賤の者にかける言葉などない。"},"kind":"dialogue"}]};

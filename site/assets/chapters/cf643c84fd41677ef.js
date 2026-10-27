@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf643c84fd41677ef"]={"id":"cf643c84fd41677ef","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_01_010","id":"TEXT_TALK_WND_TA_ch_kle_01_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"噢，我随时都可以让你拜托啊！","ja":"おう、いつだって俺に頼ってくれて構わないぜ！"},"kind":"dialogue"}]};

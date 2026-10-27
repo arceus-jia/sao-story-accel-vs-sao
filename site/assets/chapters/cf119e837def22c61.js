@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf119e837def22c61"]={"id":"cf119e837def22c61","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_04_010","id":"TEXT_TALK_WND_TA_av_leo_04_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"做点心也速度至上。","ja":"菓子づくりもスピードが命。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c84d2611ac645d1bb"]={"id":"c84d2611ac645d1bb","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_06_010","id":"TEXT_TALK_WND_TA_ch_lis_06_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"每次都是我照顾大家～偶尔我也会想恶作剧一下嘛。","ja":"みんなの世話ばっかり焼いてるとさーたまにイタズラしたくなっちゃうんだよね。"},"kind":"dialogue"}]};

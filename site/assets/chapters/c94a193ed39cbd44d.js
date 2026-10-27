@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c94a193ed39cbd44d"]={"id":"c94a193ed39cbd44d","lines":[{"uid":"TEXT_TALK_WND_SU_29_010","id":"TEXT_TALK_WND_SU_29_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"荒野的污染已经完全去除了。","ja":"荒野の穢れは完全に払われているぞ。"},"kind":"dialogue"}]};

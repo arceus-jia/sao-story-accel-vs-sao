@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca32e73305f120464"]={"id":"ca32e73305f120464","lines":[{"uid":"TEXT_TALK_WND_SDB_10_ch_kir_010","id":"TEXT_TALK_WND_SDB_10_ch_kir_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"有看到黑雪吗？","ja":"黒雪をみなかったか？"},"kind":"dialogue"}]};

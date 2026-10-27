@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc71d697e1e258408"]={"id":"cc71d697e1e258408","lines":[{"uid":"TEXT_TALK_WND_EP_05_07_010","id":"TEXT_TALK_WND_EP_05_07_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"虫……我讨厌虫。","ja":"虫……虫は苦手なんだ。"},"kind":"dialogue"}]};

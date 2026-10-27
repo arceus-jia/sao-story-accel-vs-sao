@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cad9d6da90a6617f6"]={"id":"cad9d6da90a6617f6","lines":[{"uid":"TEXT_ADV_SUB_2420100010","id":"TEXT_ADV_SUB_2420100010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"好像收到消息了！","ja":"メッセージ届いてたっけ。"},"kind":"dialogue"}]};

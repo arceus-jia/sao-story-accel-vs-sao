@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c64603ab619ef1940"]={"id":"c64603ab619ef1940","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_08_010","id":"TEXT_TALK_WND_TA_av_bel_08_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"小春那家伙，来到这世界后是不是吃太多啦？","ja":"なーんかハルのやつ、この世界にきてから少し食べ過ぎじゃない？"},"kind":"dialogue"}]};

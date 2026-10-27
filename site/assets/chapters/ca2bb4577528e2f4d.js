@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca2bb4577528e2f4d"]={"id":"ca2bb4577528e2f4d","lines":[{"uid":"TEXT_TALK_WND_SDQ_01_ch_kle_010","id":"TEXT_TALK_WND_SDQ_01_ch_kle_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"我说，你有看到阿桐吗？","ja":"なあ、キリの字知らねーか？"},"kind":"dialogue"}]};

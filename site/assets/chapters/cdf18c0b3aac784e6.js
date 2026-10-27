@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cdf18c0b3aac784e6"]={"id":"cdf18c0b3aac784e6","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_06_010","id":"TEXT_TALK_WND_TA_ch_kir_06_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"整理一下道具栏吧。","ja":"ストレージの整理でもするかな。"},"kind":"dialogue"}]};

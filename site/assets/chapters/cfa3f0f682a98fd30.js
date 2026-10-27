@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfa3f0f682a98fd30"]={"id":"cfa3f0f682a98fd30","lines":[{"uid":"TEXT_TALK_WND_EP_08_06_010","id":"TEXT_TALK_WND_EP_08_06_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"你说有同伴被抓了？而且还是女生！？那可糟了！　加油啊！","ja":"仲間が捕えられてるだって？しかも女の子！？それは大変だ！　頑張れよ！"},"kind":"dialogue"}]};

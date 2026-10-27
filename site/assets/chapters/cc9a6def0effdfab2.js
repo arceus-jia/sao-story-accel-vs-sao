@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc9a6def0effdfab2"]={"id":"cc9a6def0effdfab2","lines":[{"uid":"TEXT_TALK_WND_EP_05_08_010","id":"TEXT_TALK_WND_EP_05_08_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"有好多人朝这边仓皇逃窜，到底发生什么事了？","ja":"凄い勢いで逃げて来た人がいたけど一体なにがあったんだ？"},"kind":"dialogue"}]};

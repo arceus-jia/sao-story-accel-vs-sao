@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0ed98b5207742a6c"]={"id":"c0ed98b5207742a6c","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_02_010","id":"TEXT_TALK_WND_TA_ch_rai_02_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"我可没有……撒谎喔？","ja":"わたし、嘘ついたこと……ないよ？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6c1e8065e2186178"]={"id":"c6c1e8065e2186178","lines":[{"uid":"TEXT_TALK_WND_TA_ch_arg_01_010","id":"TEXT_TALK_WND_TA_ch_arg_01_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"很遗憾，目前我手上没什么特别的情报。","ja":"残念だけど今は大した情報は持っていないナ。"},"kind":"dialogue"}]};

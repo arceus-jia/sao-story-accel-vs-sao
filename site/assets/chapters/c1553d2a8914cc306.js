@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1553d2a8914cc306"]={"id":"c1553d2a8914cc306","lines":[{"uid":"TEXT_TALK_WND_EP_13_02_010","id":"TEXT_TALK_WND_EP_13_02_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"建在荒野上的巨塔……之前有这种东西吗？","ja":"荒野に建つ巨大な塔……前はあんなのなかったよね？"},"kind":"dialogue"}]};

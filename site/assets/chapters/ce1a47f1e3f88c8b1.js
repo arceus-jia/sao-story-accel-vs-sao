@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce1a47f1e3f88c8b1"]={"id":"ce1a47f1e3f88c8b1","lines":[{"uid":"TEXT_TALK_WND_CA_53_020","id":"TEXT_TALK_WND_CA_53_020","speaker":{"cn":"Tin Writer","ja":"ブリキ・ライター"},"text":{"cn":"哈哈，这里还真热闹。我喜欢。","ja":"はは、ここは賑やかだね。気に入ったよ。"},"kind":"dialogue"}]};

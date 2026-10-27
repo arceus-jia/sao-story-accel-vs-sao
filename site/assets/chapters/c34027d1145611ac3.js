@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c34027d1145611ac3"]={"id":"c34027d1145611ac3","lines":[{"uid":"TEXT_TALK_WND_SU_06_010","id":"TEXT_TALK_WND_SU_06_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"沙漠的水晶现在还是受到污染。","ja":"砂漠の水晶はまだまだ穢れている。"},"kind":"dialogue"}]};

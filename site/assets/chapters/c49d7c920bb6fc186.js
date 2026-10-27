@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c49d7c920bb6fc186"]={"id":"c49d7c920bb6fc186","lines":[{"uid":"TEXT_TALK_WND_EP_15_06_010","id":"TEXT_TALK_WND_EP_15_06_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"我相信你们喔。好好上吧伙伴们！","ja":"俺はお前たちを信じてるよ。しっかりやってこいよ相棒たち！"},"kind":"dialogue"}]};

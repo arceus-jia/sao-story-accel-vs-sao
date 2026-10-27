@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c892b07cee8c65201"]={"id":"c892b07cee8c65201","lines":[{"uid":"TEXT_TALK_WND_AR_55_010","id":"TEXT_TALK_WND_AR_55_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"像这样在斗技场锻炼也不错，不过果然实践是很重要的呢。光是空挥可是练不到招式的啊。","ja":"こうやって闘技場で鍛錬するのもいいけど、やっぱり実践が大事だよな。素振りじゃ技は磨けないってことだ。"},"kind":"dialogue"}]};

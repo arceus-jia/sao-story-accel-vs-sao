@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c846387300ff73735"]={"id":"c846387300ff73735","lines":[{"uid":"TEXT_TALK_WND_TA_av_rak_02_010","id":"TEXT_TALK_WND_TA_av_rak_02_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"我说不定也能帮上忙喔。","ja":"わたしでもお役に立てるかもしれませんよ。"},"kind":"dialogue"}]};

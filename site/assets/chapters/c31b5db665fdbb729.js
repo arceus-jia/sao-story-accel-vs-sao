@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c31b5db665fdbb729"]={"id":"c31b5db665fdbb729","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_02_010","id":"TEXT_TALK_WND_TA_av_rai_02_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"唷，来去消灭杂兵吧！","ja":"よう、雑魚蹴散らしに行こうぜ！"},"kind":"dialogue"}]};

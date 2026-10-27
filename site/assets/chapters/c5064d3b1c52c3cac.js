@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5064d3b1c52c3cac"]={"id":"c5064d3b1c52c3cac","lines":[{"uid":"TEXT_TALK_WND_SDQ_10_av_rak_010","id":"TEXT_TALK_WND_SDQ_10_av_rak_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"有没有看到鸦同学啊？","ja":"鴉さんを見ませんでしたか？"},"kind":"dialogue"}]};

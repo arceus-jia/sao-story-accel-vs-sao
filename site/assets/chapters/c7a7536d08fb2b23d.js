@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7a7536d08fb2b23d"]={"id":"c7a7536d08fb2b23d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lux_03_010","id":"TEXT_TALK_WND_TA_ch_lux_03_010","speaker":{"cn":"露可思","ja":"ルクス"},"text":{"cn":"之前登都登不进来，我很担心啊。","ja":"なかなかログインできず、心配したよ。"},"kind":"dialogue"}]};

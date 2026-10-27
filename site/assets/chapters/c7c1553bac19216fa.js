@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7c1553bac19216fa"]={"id":"c7c1553bac19216fa","lines":[{"uid":"TEXT_TALK_WND_SDB_05_av_lot_020","id":"TEXT_TALK_WND_SDB_05_av_lot_020","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"有看到亚丝娜吗？","ja":"アスナを知らないか？"},"kind":"dialogue"}]};

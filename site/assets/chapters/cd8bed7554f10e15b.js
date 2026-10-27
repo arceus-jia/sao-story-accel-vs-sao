@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd8bed7554f10e15b"]={"id":"cd8bed7554f10e15b","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sak_04_010","id":"TEXT_TALK_WND_TA_ch_sak_04_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"那个黑色的女生跟红色的女生，在她们世界里也等同是领主吗……。","ja":"あの黒い女も赤い女も彼らの世界では領主の立場か……。"},"kind":"dialogue"}]};

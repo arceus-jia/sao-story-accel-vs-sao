@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2f7c6afa810c8879"]={"id":"c2f7c6afa810c8879","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yun_01_010","id":"TEXT_TALK_WND_TA_ch_yun_01_010","speaker":{"cn":"尤娜","ja":"ユナ"},"text":{"cn":"为努力的你献唱一曲。","ja":"頑張ってるあなたに唄ってあげるね。"},"kind":"dialogue"}]};

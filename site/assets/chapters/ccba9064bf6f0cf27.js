@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccba9064bf6f0cf27"]={"id":"ccba9064bf6f0cf27","lines":[{"uid":"TEXT_TALK_WND_NTD_ch_str_010","id":"TEXT_TALK_WND_NTD_ch_str_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"没什么事吗～。","ja":"特に用は無いかな～。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c04a22bc4ea0cfcb5"]={"id":"c04a22bc4ea0cfcb5","lines":[{"uid":"TEXT_TALK_WND_SU_07_010","id":"TEXT_TALK_WND_SU_07_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"冰山的水晶现在还是受到污染。","ja":"氷山の水晶はまだまだ穢れている。"},"kind":"dialogue"}]};

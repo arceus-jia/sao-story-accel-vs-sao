@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbaf1193451ba1e69"]={"id":"cbaf1193451ba1e69","lines":[{"uid":"TEXT_TALK_WND_TA_ch_arg_02_010","id":"TEXT_TALK_WND_TA_ch_arg_02_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"现在我正忙着收集情报，之后再说吧。","ja":"今、情報収集中の真っ最中だからまた後でナ。"},"kind":"dialogue"}]};

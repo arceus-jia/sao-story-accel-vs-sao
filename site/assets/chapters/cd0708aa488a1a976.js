@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd0708aa488a1a976"]={"id":"cd0708aa488a1a976","lines":[{"uid":"TEXT_TALK_WND_SDB_13_ch_agi_010","id":"TEXT_TALK_WND_SDB_13_ch_agi_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"有看到桐人吗？","ja":"キリトを見なかったか？"},"kind":"dialogue"}]};

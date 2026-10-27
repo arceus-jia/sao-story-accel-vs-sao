@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c13fb422d5f67b12f"]={"id":"c13fb422d5f67b12f","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_10_010","id":"TEXT_TALK_WND_TA_ch_sin_10_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"Ｂｅｌｌ一直用闪亮亮的眼神在看着我……到底是为什么？","ja":"ベルったら、キラキラした目でずーっと私を見てるんだけど……なぜかしら？"},"kind":"dialogue"}]};

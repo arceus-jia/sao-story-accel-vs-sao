@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbf7b0fc84476e0a3"]={"id":"cbf7b0fc84476e0a3","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_04_010","id":"TEXT_TALK_WND_TA_av_rol_04_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"我的ｈｅａｒｔ一直很ｓｕｎｓｈｉｎｅ啦！Ｙｅａｈ！","ja":"いつもハートはサンシャインだぜ！イエーイ！"},"kind":"dialogue"}]};

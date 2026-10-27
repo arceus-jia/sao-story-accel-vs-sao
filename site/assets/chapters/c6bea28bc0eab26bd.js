@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6bea28bc0eab26bd"]={"id":"c6bea28bc0eab26bd","lines":[{"uid":"TEXT_TALK_WND_EP_08_13_010","id":"TEXT_TALK_WND_EP_08_13_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"你问我在隐瞒什么……当然是身为〈圣马利亚〉成员这件事了。怎样？　觉得帅吧？","ja":"何を隠そう……俺達は≪サンタ・マリア≫のメンバーなのさ。どう？　惚れたでしょ？"},"kind":"dialogue"}]};

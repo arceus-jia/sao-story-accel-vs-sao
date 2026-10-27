@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7b545c8668fff698"]={"id":"c7b545c8668fff698","lines":[{"uid":"TEXT_TALK_WND_EP_06_06_010","id":"TEXT_TALK_WND_EP_06_06_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"为什么往其他岛的转移门没有启动呢？","ja":"他の島へのポータルが起動していないのはなんでだろうね。"},"kind":"dialogue"}]};

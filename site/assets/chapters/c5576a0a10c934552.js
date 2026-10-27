@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5576a0a10c934552"]={"id":"c5576a0a10c934552","lines":[{"uid":"TEXT_TALK_WND_SDQ_12_av_cro_010","id":"TEXT_TALK_WND_SDQ_12_av_cro_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"桐人先生，到哪里去了呢……。","ja":"キリトさん、どこ行ったのかなぁ……。"},"kind":"dialogue"}]};

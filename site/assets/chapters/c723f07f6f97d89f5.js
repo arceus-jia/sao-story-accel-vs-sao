@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c723f07f6f97d89f5"]={"id":"c723f07f6f97d89f5","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_05_010","id":"TEXT_TALK_WND_TA_av_cro_05_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"好……差不多也适应这个世界了。","ja":"よし……だいぶ、この世界にも慣れてきたぞ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd52ae75bd2cf194e"]={"id":"cd52ae75bd2cf194e","lines":[{"uid":"TEXT_TALK_WND_TO_57_010","id":"TEXT_TALK_WND_TO_57_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"好巨大的房子啊……住在这里的人一定相当有钱吧。据说是一名猫妖女孩还什么的……。","ja":"大きな館だなぁ……。ここに住む人は相当なユルド持ちだよね。噂ではケットシーの女の子だとか……。"},"kind":"dialogue"}]};

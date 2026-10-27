@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6d3d179ee7bebbce"]={"id":"c6d3d179ee7bebbce","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_05_010","id":"TEXT_TALK_WND_TA_av_mai_05_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"看来带来幸福的青鸟总是跟着我们！","ja":"幸せを運んでくれる鳥さんが私たちにはついててくれるのです！"},"kind":"dialogue"}]};

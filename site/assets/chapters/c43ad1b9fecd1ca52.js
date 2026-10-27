@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c43ad1b9fecd1ca52"]={"id":"c43ad1b9fecd1ca52","lines":[{"uid":"TEXT_TALK_WND_EP_15_03_010","id":"TEXT_TALK_WND_EP_15_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"啊，你找到跟〈神兽级公敌〉一战的方法了吗！加油啊～！","ja":"あっ、≪神獣級エネミー≫と戦える術を見つけたんだね！頑張れー！"},"kind":"dialogue"}]};

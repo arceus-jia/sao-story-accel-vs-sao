@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5b45b26791325ee1"]={"id":"c5b45b26791325ee1","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_04_010","id":"TEXT_TALK_WND_TA_ch_kir_04_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"到咖啡厅休息一下如何。","ja":"カフェで休憩でもするか。"},"kind":"dialogue"}]};

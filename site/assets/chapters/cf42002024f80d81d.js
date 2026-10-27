@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf42002024f80d81d"]={"id":"cf42002024f80d81d","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_04_010","id":"TEXT_TALK_WND_TA_av_rai_04_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"我对点心可是很挑剔的。","ja":"お菓子には、ちょっとうるさいぜ。"},"kind":"dialogue"}]};

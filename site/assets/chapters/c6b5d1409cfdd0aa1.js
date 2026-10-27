@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6b5d1409cfdd0aa1"]={"id":"c6b5d1409cfdd0aa1","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_02_010","id":"TEXT_TALK_WND_TA_av_rol_02_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"这夕阳ｔｅｒａ ｂｅａｕｔｉｆｕｌ！真是ｔｗｉｌｉｇｈｔ ｂｕｒｎｉｎｇ ｓｋｙ！","ja":"このサンセット、テラ・ビューティホー！トワイライト・バーニングスカイだぜ！"},"kind":"dialogue"}]};

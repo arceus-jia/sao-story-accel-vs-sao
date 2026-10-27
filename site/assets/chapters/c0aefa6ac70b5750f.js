@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0aefa6ac70b5750f"]={"id":"c0aefa6ac70b5750f","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_04_010","id":"TEXT_TALK_WND_TA_av_cur_04_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"我觉得水獭是种可爱的动物。","ja":"カワウソ、可愛い動物だと思うの。"},"kind":"dialogue"}]};

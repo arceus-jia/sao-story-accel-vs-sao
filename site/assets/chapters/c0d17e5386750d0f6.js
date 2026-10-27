@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0d17e5386750d0f6"]={"id":"c0d17e5386750d0f6","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_08_010","id":"TEXT_TALK_WND_TA_av_rol_08_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"Ｍｒ﹒克莱因是个ｎｉｃｅ ｇｕｙ，但我不会将纶交给任何人……。","ja":"ミスター・クラインはナイスガイだが綸だけは、何人たりとも絶対やれねえ……。"},"kind":"dialogue"}]};

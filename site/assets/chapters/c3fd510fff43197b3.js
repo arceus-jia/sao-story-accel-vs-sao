@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3fd510fff43197b3"]={"id":"c3fd510fff43197b3","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_02_010","id":"TEXT_TALK_WND_TA_ch_asu_02_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"……夕阳真是美丽呢。","ja":"……夕焼け、きれいだね。"},"kind":"dialogue"}]};

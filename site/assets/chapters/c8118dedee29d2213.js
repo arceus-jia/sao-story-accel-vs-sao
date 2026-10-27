@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8118dedee29d2213"]={"id":"c8118dedee29d2213","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_08_010","id":"TEXT_TALK_WND_TA_av_lot_08_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"唔嗯，我似乎也完全融入这个城镇了。","ja":"ふむ、この街にもすっかりなじんでしまったようだな。"},"kind":"dialogue"}]};

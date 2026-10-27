@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca6339fcda31757f4"]={"id":"ca6339fcda31757f4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_03_010","id":"TEXT_TALK_WND_TA_ch_met_03_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"放肆……居然敢随便跟我大天使梅丹佐说话！","ja":"無礼者……この大天使メタトロンに気軽に話しかけてくるとは！"},"kind":"dialogue"}]};

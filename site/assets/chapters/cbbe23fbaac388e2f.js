@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbbe23fbaac388e2f"]={"id":"cbbe23fbaac388e2f","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_03_010","id":"TEXT_TALK_WND_TA_ch_asu_03_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"也买点回复道具备用吧。","ja":"回復アイテムも買っておこうかな。"},"kind":"dialogue"}]};

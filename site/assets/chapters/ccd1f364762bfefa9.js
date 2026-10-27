@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccd1f364762bfefa9"]={"id":"ccd1f364762bfefa9","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_06_010","id":"TEXT_TALK_WND_TA_av_pil_06_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"眼镜小弟啊……我好像越来越习惯这个称呼了……。","ja":"メガネ君、か……そう呼ばれるのを受け入れちゃってるな、僕……。"},"kind":"dialogue"}]};

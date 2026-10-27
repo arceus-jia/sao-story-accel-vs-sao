@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1deb9e7b0e80db41"]={"id":"c1deb9e7b0e80db41","lines":[{"uid":"TEXT_TALK_WND_EP_14_04_010","id":"TEXT_TALK_WND_EP_14_04_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"好像有人在冰山遇难了不过已经有厉害的公会动身前往救援一定没事的。","ja":"氷山で誰か遭難したらしいんだけど凄腕ギルドが救出に向かったからきっと大丈夫だろ。"},"kind":"dialogue"}]};

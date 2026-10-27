@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c79b8ec2d25e69b87"]={"id":"c79b8ec2d25e69b87","lines":[{"uid":"TEXT_TALK_WND_EP_15_05_010","id":"TEXT_TALK_WND_EP_15_05_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"终于到了关键时刻了啊。我会声援你的！","ja":"いよいよ正念場ってところか。応援してるからな！"},"kind":"dialogue"}]};

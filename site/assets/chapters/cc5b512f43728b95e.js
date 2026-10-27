@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc5b512f43728b95e"]={"id":"cc5b512f43728b95e","lines":[{"uid":"TEXT_TALK_WND_TA_ch_arg_03_010","id":"TEXT_TALK_WND_TA_ch_arg_03_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"想要好情报吗？内容可是跟价格成正比喔。","ja":"いい情報が欲しい？それ相応の値段がつくけどナ。"},"kind":"dialogue"}]};

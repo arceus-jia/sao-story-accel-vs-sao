@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca13f32b278d483a6"]={"id":"ca13f32b278d483a6","lines":[{"uid":"TEXT_TALK_WND_EP_12_05_010","id":"TEXT_TALK_WND_EP_12_05_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"异界门似乎出现在沙漠上空了。","ja":"砂漠の上空に異界ゲートが出現したらしいな。"},"kind":"dialogue"}]};

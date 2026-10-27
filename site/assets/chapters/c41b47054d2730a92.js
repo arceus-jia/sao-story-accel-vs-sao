@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c41b47054d2730a92"]={"id":"c41b47054d2730a92","lines":[{"uid":"TEXT_TALK_WND_TO_59_010","id":"TEXT_TALK_WND_TO_59_010","speaker":{"cn":"熊哥","ja":"ベアーさん"},"text":{"cn":"回收物、回收物……嗯～真叫人按捺不住啊。","ja":"ガラクタ、ガラクタ……う～、たまんないねえ。"},"kind":"dialogue"}]};

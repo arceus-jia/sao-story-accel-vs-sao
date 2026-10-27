@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c60c92ebf513543d4"]={"id":"c60c92ebf513543d4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yui_01_010","id":"TEXT_TALK_WND_TA_ch_yui_01_010","speaker":{"cn":"结衣","ja":"ユイ"},"text":{"cn":"我想创造出好多好多跟爸爸妈妈在一起的快乐回忆！","ja":"パパやママと楽しい思い出をいっぱい、いっぱい作りたいです！"},"kind":"dialogue"}]};

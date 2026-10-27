@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c12af3b45e48d3a45"]={"id":"c12af3b45e48d3a45","lines":[{"uid":"TEXT_ADV_MAIN_0040720010","id":"TEXT_ADV_MAIN_0040720010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"这家伙，不要随便招惹比较好啦！要是情况不对劲就逃吧！","ja":"こいつ、うかつに相手をしない方がいいよ！危なくなったら逃げよう！"},"kind":"dialogue"}]};

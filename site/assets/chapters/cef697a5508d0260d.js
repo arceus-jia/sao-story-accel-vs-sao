@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cef697a5508d0260d"]={"id":"cef697a5508d0260d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_08_010","id":"TEXT_TALK_WND_TA_ch_sin_08_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"我总觉得自己跟Ｐａｒｄ很合得来呢。","ja":"なんだかパドとはとても気が合いそうね。"},"kind":"dialogue"}]};

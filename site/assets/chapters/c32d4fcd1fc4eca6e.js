@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c32d4fcd1fc4eca6e"]={"id":"c32d4fcd1fc4eca6e","lines":[{"uid":"TEXT_TALK_BAL_CA_64_010","id":"TEXT_TALK_BAL_CA_64_010","speaker":{},"text":{"cn":"听到老板的声音就让人放心呢。","ja":"マスターの声を聞くと安心するわ。"},"kind":"narration"}]};

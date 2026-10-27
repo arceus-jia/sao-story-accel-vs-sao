@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cab4e341bd34d2930"]={"id":"cab4e341bd34d2930","lines":[{"uid":"TEXT_TALK_BAL_TO_58_010","id":"TEXT_TALK_BAL_TO_58_010","speaker":{},"text":{"cn":"这个人，总觉得不能放着他不管啊。","ja":"この人、なんだか放っておけなくて。"},"kind":"narration"}]};

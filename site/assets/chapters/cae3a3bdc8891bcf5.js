@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cae3a3bdc8891bcf5"]={"id":"cae3a3bdc8891bcf5","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_07_010","id":"TEXT_TALK_WND_TA_ch_lea_07_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"有破绽，面！！……就像这样，我的意像训练可是很扎实的喔～","ja":"スキありぃぃ、メーン！！……って、イメージトレーニングはバッチリなんだけどなー。"},"kind":"dialogue"}]};

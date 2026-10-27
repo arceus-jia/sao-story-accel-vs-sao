@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca5f37faa18813d8a"]={"id":"ca5f37faa18813d8a","lines":[{"uid":"TEXT_ADV_MAIN_0053830010","id":"TEXT_ADV_MAIN_0053830010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"玉现在有……４颗。照这步调继续找其他的玉吧。","ja":"オーブはいま……４つか。この調子で他のオーブも探そう。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c16c3f3efcc1feb1e"]={"id":"c16c3f3efcc1feb1e","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_02_010","id":"TEXT_TALK_WND_TA_ch_str_02_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"哎呀呀？大家都到哪去了呢？","ja":"あれれ？みんな、どこに行っちゃったのかな？"},"kind":"dialogue"}]};

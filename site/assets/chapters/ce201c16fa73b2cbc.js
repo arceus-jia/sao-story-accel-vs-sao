@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce201c16fa73b2cbc"]={"id":"ce201c16fa73b2cbc","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_06_010","id":"TEXT_TALK_WND_TA_ch_phi_06_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"我说你啊～要不要来当宝藏猎人看看？","ja":"ねえねえトレジャーハンターになってみない？"},"kind":"dialogue"}]};

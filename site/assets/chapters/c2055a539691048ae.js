@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2055a539691048ae"]={"id":"c2055a539691048ae","lines":[{"uid":"TEXT_TALK_WND_DU_00_000","id":"TEXT_TALK_WND_DU_00_000","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"ja":"ウィンドウ用のダミーです"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c444df6a48cbca5e2"]={"id":"c444df6a48cbca5e2","lines":[{"uid":"TEXT_TALK_WND_SDQ_07_av_bel_010","id":"TEXT_TALK_WND_SDQ_07_av_bel_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"欸，有看到小春吗？","ja":"ねえ、ハル知らない？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c392f8376719ce2ee"]={"id":"c392f8376719ce2ee","lines":[{"uid":"TEXT_TALK_WND_SU_24_010","id":"TEXT_TALK_WND_SU_24_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"多亏了你们，荒野的污染已经完全去除了。谢谢，这是我给你们的报酬。","ja":"キミ達のおかげで荒野の穢れは完全に払われた。ありがとう、これは私からの報酬だ。"},"kind":"dialogue"}]};

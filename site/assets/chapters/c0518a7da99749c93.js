@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0518a7da99749c93"]={"id":"c0518a7da99749c93","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_03_010","id":"TEXT_TALK_WND_TA_av_rol_03_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"……面对师父，即使是本大爷的ｈｅａｄ也ｎｏｔ ｕｐ啊。","ja":"……師匠にだけはさすがの俺様のヘッドもノットアップさ。"},"kind":"dialogue"}]};

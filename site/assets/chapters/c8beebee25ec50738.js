@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8beebee25ec50738"]={"id":"c8beebee25ec50738","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_04_010","id":"TEXT_TALK_WND_TA_ch_str_04_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"呐呐，下次我带你去我知道的店吧♪","ja":"ねえねえ、今度アタシの知ってるお店に案内してあげよっか♪"},"kind":"dialogue"}]};

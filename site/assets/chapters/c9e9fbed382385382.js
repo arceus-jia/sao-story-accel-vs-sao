@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9e9fbed382385382"]={"id":"c9e9fbed382385382","lines":[{"uid":"TEXT_TALK_BAL_DU_00_010","id":"TEXT_TALK_BAL_DU_00_010","speaker":{},"text":{"ja":"吹きだし用のダミーです"},"kind":"narration"}]};

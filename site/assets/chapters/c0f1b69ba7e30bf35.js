@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0f1b69ba7e30bf35"]={"id":"c0f1b69ba7e30bf35","lines":[{"uid":"TEXT_TALK_WND_TA_ch_alc_02_010","id":"TEXT_TALK_WND_TA_ch_alc_02_010","speaker":{"cn":"爱丽丝","ja":"アリス"},"text":{"cn":"不介意的话，我随时都能当你的对手。","ja":"私で良ければいつでも手合わせしましょう。"},"kind":"dialogue"}]};

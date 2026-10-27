@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8b891ef95ef18cca"]={"id":"c8b891ef95ef18cca","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_04_010","id":"TEXT_TALK_WND_TA_ch_lea_04_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"……哥哥，应该又在吃辣的东西了吧。","ja":"……お兄ちゃんまた辛いもの食べてるんだろうなぁ。"},"kind":"dialogue"}]};

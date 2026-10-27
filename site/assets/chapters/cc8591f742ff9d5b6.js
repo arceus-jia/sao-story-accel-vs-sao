@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc8591f742ff9d5b6"]={"id":"cc8591f742ff9d5b6","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_01_010","id":"TEXT_TALK_WND_TA_av_lot_01_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"喔……真是个相当有活力的好城镇。","ja":"ほぅ……結構、活気があっていい街じゃないか。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb5262054432c3bc5"]={"id":"cb5262054432c3bc5","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_08_010","id":"TEXT_TALK_WND_TA_ch_met_08_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"仆人应该要变瘦点比较好。","ja":"しもべはもっと痩せるべきだと思いますよ。"},"kind":"dialogue"}]};

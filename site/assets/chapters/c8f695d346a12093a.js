@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8f695d346a12093a"]={"id":"c8f695d346a12093a","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_06_010","id":"TEXT_TALK_WND_TA_av_leo_06_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"随时欢迎找我解任务。","ja":"クエストの誘いはいつでも歓迎。"},"kind":"dialogue"}]};

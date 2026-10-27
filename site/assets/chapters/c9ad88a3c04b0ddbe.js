@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9ad88a3c04b0ddbe"]={"id":"c9ad88a3c04b0ddbe","lines":[{"uid":"TEXT_TALK_WND_EP_11_05_010","id":"TEXT_TALK_WND_EP_11_05_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"你去过冰山的控制室了吗？就在中央神殿的东北方。","ja":"氷山のコンソールルームには行ったかい？中央の神殿の北東だ。"},"kind":"dialogue"}]};

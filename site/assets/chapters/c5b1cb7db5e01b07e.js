@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5b1cb7db5e01b07e"]={"id":"c5b1cb7db5e01b07e","lines":[{"uid":"TEXT_TALK_WND_NTD_ch_kir_010","id":"TEXT_TALK_WND_NTD_ch_kir_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"没什么事，吗。","ja":"特に用は無い、か。"},"kind":"dialogue"}]};

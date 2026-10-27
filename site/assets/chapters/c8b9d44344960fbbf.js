@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8b9d44344960fbbf"]={"id":"c8b9d44344960fbbf","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_08_010","id":"TEXT_TALK_WND_TA_av_cur_08_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"我操纵的水是没有杂质的。","ja":"わたしが操る水は不純物ゼロなの。"},"kind":"dialogue"}]};

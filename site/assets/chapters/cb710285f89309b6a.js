@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb710285f89309b6a"]={"id":"cb710285f89309b6a","lines":[{"uid":"TEXT_TALK_WND_EP_08_11_010","id":"TEXT_TALK_WND_EP_08_11_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"啊啊～～玛丽姊，什么时候看都好美啊……！","ja":"ああ～……マリ姐いつもながらお美しい……！"},"kind":"dialogue"}]};

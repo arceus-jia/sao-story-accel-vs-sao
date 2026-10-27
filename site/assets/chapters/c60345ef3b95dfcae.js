@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c60345ef3b95dfcae"]={"id":"c60345ef3b95dfcae","lines":[{"uid":"TEXT_TALK_WND_EP_09_03_010","id":"TEXT_TALK_WND_EP_09_03_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"那是接到注销通知后没多久的事。唔嗯～我当时该跟去才对吗……","ja":"ログアウト通知のすぐ後だよ。うーむ、俺もついて行くべきだったか……。"},"kind":"dialogue"}]};

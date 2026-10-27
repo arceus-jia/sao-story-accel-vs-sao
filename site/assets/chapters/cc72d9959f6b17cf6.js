@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc72d9959f6b17cf6"]={"id":"cc72d9959f6b17cf6","lines":[{"uid":"TEXT_TALK_BAL_EP_11_13_010","id":"TEXT_TALK_BAL_EP_11_13_010","speaker":{},"text":{"cn":"知道要怎么比〈表情动作〉吗？","ja":"≪ジェスチャー≫の出し方知ってるか？"},"kind":"narration"}]};

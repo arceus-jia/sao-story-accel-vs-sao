@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca2de8374499beb31"]={"id":"ca2de8374499beb31","lines":[{"uid":"TEXT_TALK_WND_TA_ch_obe_01_010","id":"TEXT_TALK_WND_TA_ch_obe_01_010","speaker":{"cn":"奥伯龙","ja":"オベイロン"},"text":{"cn":"只管赞颂我这精灵王奥伯龙！在我面前跪下，臣服于我吧！","ja":"この妖精王オベイロンを賛美せよ！我が前に跪き、崇め奉れ！"},"kind":"dialogue"}]};

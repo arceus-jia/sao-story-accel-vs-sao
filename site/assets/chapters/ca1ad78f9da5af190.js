@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca1ad78f9da5af190"]={"id":"ca1ad78f9da5af190","lines":[{"uid":"TEXT_TALK_WND_SDB_02_ch_met_010","id":"TEXT_TALK_WND_SDB_02_ch_met_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"影子精灵在哪里？　马上把他叫来。","ja":"影妖精はどこです？　すぐに呼びなさい。"},"kind":"dialogue"}]};

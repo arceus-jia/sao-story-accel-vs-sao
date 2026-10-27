@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5fd66145715d94a5"]={"id":"c5fd66145715d94a5","lines":[{"uid":"TEXT_TALK_WND_NTD_ch_sin_010","id":"TEXT_TALK_WND_NTD_ch_sin_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"没什么事。","ja":"特に用は無いわ。"},"kind":"dialogue"}]};

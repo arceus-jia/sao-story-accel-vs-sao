@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6e0b25e3b421ffd9"]={"id":"c6e0b25e3b421ffd9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_01_010","id":"TEXT_TALK_WND_TA_ch_str_01_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"我也是多少会察言观色的好吗！","ja":"アタシだって少しは空気読めるんだからね！"},"kind":"dialogue"}]};

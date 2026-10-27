@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccbf1df6a8de6c49d"]={"id":"ccbf1df6a8de6c49d","lines":[{"uid":"TEXT_TALK_WND_EP_10_03_010","id":"TEXT_TALK_WND_EP_10_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"是有谁在沙漠使用雷电魔法吗……好像不时会看见闪光。","ja":"砂漠で誰か雷の魔法でも使ってるのかな。時々パリッと見える気がするの。"},"kind":"dialogue"}]};

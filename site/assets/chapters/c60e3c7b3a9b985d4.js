@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c60e3c7b3a9b985d4"]={"id":"c60e3c7b3a9b985d4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_01_010","id":"TEXT_TALK_WND_TA_ch_lea_01_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"总觉得很热闹呢～","ja":"なんだか、にぎやかだねー。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8580b97392bc7b12"]={"id":"c8580b97392bc7b12","lines":[{"uid":"TEXT_TALK_BAL_TO_41_010","id":"TEXT_TALK_BAL_TO_41_010","speaker":{},"text":{"cn":"咿～好害怕啊……。","ja":"ひーん、心細いよぅ……。"},"kind":"narration"},{"uid":"TEXT_TALK_BAL_TO_41_020","id":"TEXT_TALK_BAL_TO_41_020","speaker":{},"text":{"cn":"熊哥太厉害了！　我也要跟上！","ja":"ベアーさん流石ッス！　俺ついて行くッス！"},"kind":"narration"}]};

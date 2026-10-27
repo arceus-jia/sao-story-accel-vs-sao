@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1f2dd5ac14c01c00"]={"id":"c1f2dd5ac14c01c00","lines":[{"uid":"TEXT_TALK_WND_SDB_08_ch_sil_020","id":"TEXT_TALK_WND_SDB_08_ch_sil_020","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"艾基尔的话会知道些什么吗……？","ja":"エギルさんなら何かわかるかな……？"},"kind":"dialogue"}]};

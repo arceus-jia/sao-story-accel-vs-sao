@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c04cd8d6c1bb81f11"]={"id":"c04cd8d6c1bb81f11","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_06_010","id":"TEXT_TALK_WND_TA_av_rai_06_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"闲得要命……有什么有趣的情报吗？","ja":"なんっか暇なんだよなぁ……面白い情報ねえのか？"},"kind":"dialogue"}]};

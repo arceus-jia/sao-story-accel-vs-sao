@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb89ff2a153c19731"]={"id":"cb89ff2a153c19731","lines":[{"uid":"TEXT_ADV_SUB_2370100010","id":"TEXT_ADV_SUB_2370100010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"收到消息了呢。","ja":"メッセージが届いてたな。"},"kind":"dialogue"}]};

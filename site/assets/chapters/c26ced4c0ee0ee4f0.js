@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c26ced4c0ee0ee4f0"]={"id":"c26ced4c0ee0ee4f0","lines":[{"uid":"TEXT_TALK_WND_SH_07_010","id":"TEXT_TALK_WND_SH_07_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"这里是谁都能用的锻造空间。","ja":"ここは誰でも使える鍛冶スペースだ。"},"kind":"dialogue"}]};

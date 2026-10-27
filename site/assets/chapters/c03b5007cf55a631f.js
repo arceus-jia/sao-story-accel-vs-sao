@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c03b5007cf55a631f"]={"id":"c03b5007cf55a631f","lines":[{"uid":"TEXT_TALK_WND_SU_42_010","id":"TEXT_TALK_WND_SU_42_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"冰山水晶的污染正逐渐被净化。还差一点就能解决了。","ja":"氷山の水晶は殆ど穢れが払われている。もう少しだな。"},"kind":"dialogue"}]};

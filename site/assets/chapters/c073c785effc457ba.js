@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c073c785effc457ba"]={"id":"c073c785effc457ba","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_05_010","id":"TEXT_TALK_WND_TA_ch_sil_05_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"灵魂之花是一种非常漂亮的花喔♪","ja":"プネウマの花ってとってもキレイな花なんですよ♪"},"kind":"dialogue"}]};

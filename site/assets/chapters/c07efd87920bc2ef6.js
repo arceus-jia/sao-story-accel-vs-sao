@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c07efd87920bc2ef6"]={"id":"c07efd87920bc2ef6","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_10_010","id":"TEXT_TALK_WND_TA_ch_lea_10_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"当叽不知道过得好不好……","ja":"トンキー、元気にしてるかな……。"},"kind":"dialogue"}]};

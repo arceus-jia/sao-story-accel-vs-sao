@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2895b5d89891b090"]={"id":"c2895b5d89891b090","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_04_010","id":"TEXT_TALK_WND_TA_av_cro_04_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"呜呜，感觉肚子饿起来了……。","ja":"うう、なんかお腹減ってきちゃった……。"},"kind":"dialogue"}]};

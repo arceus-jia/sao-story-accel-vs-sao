@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8f6306d284b20d9f"]={"id":"c8f6306d284b20d9f","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_01_010","id":"TEXT_TALK_WND_TA_av_leo_01_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"速度……摆第一。","ja":"スピード……それこそ至上。"},"kind":"dialogue"}]};

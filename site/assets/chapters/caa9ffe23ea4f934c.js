@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["caa9ffe23ea4f934c"]={"id":"caa9ffe23ea4f934c","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_08_010","id":"TEXT_TALK_WND_TA_ch_agi_08_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"……我店里最自豪的品项？哈哈，全部都是啊。","ja":"……俺の店の自慢のメニュー？ははっ、全部だよ。"},"kind":"dialogue"}]};

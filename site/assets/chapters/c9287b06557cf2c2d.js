@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9287b06557cf2c2d"]={"id":"c9287b06557cf2c2d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_01_010","id":"TEXT_TALK_WND_TA_ch_kir_01_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"嗨，状况如何？","ja":"やあ、調子はどうだ？"},"kind":"dialogue"}]};

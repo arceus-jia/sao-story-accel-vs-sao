@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc5df8db27c7f5838"]={"id":"cc5df8db27c7f5838","lines":[{"uid":"TEXT_TALK_WND_EP_12_01_010","id":"TEXT_TALK_WND_EP_12_01_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"感觉沙漠的上空给人一种会有什么重大剧情发展的感觉。这是我身为老练玩家的直觉啦。","ja":"砂漠の上空には何か大きなドラマがあるような気がするね。熟練ゲーマーの勘ってやつだ。"},"kind":"dialogue"}]};

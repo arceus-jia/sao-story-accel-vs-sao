@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf57cdf7cb98dd637"]={"id":"cf57cdf7cb98dd637","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_04_010","id":"TEXT_TALK_WND_TA_av_mai_04_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"要找我一起解任务的话，不用客气直说就好。","ja":"クエストのお誘いなら遠慮することないのです。"},"kind":"dialogue"}]};

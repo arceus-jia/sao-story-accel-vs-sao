@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cebac797cfad05fa4"]={"id":"cebac797cfad05fa4","lines":[{"uid":"TEXT_TALK_WND_SDQ_02_ch_lea_010","id":"TEXT_TALK_WND_SDQ_02_ch_lea_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"哥哥，跑哪去了呢？","ja":"お兄ちゃん、どこ行ったんだろう？"},"kind":"dialogue"}]};

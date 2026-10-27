@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c48319e5a1230c773"]={"id":"c48319e5a1230c773","lines":[{"uid":"TEXT_TALK_BAL_CA_62_020","id":"TEXT_TALK_BAL_CA_62_020","speaker":{},"text":{"cn":"Ｐｉｌｅ我可以～。","ja":"アタシ、パイルちゃんがいいわぁ～。"},"kind":"narration"}]};

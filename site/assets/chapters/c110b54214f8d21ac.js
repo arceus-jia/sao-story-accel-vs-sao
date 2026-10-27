@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c110b54214f8d21ac"]={"id":"c110b54214f8d21ac","lines":[{"uid":"TEXT_TALK_WND_SU_26_010","id":"TEXT_TALK_WND_SU_26_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"草原的污染已经完全去除了。","ja":"草原の穢れは完全に払われているぞ。"},"kind":"dialogue"}]};

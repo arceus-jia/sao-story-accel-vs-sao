@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c460099744f074f3b"]={"id":"c460099744f074f3b","lines":[{"uid":"TEXT_TALK_WND_EP_12_04_010","id":"TEXT_TALK_WND_EP_12_04_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"感觉就像在星座上漫步一样。真是罗曼蒂克呢。","ja":"星座の上は歩けるらしいよ。なんだかロマンチックだね。"},"kind":"dialogue"}]};

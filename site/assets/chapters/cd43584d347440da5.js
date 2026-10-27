@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd43584d347440da5"]={"id":"cd43584d347440da5","lines":[{"uid":"TEXT_TALK_BAL_EP_11_12_010","id":"TEXT_TALK_BAL_EP_11_12_010","speaker":{},"text":{"cn":"长按[SEL]然后用[L1][R1]来选择～","ja":"[SEL]長押し、[L1][R1]で選択っと。"},"kind":"narration"}]};

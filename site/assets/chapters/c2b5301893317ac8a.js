@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2b5301893317ac8a"]={"id":"c2b5301893317ac8a","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_03_010","id":"TEXT_TALK_WND_TA_av_bel_03_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"我是不是开始有点玩家样了？","ja":"あたしもちょっとはゲーマーっぽくなってきたかな？"},"kind":"dialogue"}]};

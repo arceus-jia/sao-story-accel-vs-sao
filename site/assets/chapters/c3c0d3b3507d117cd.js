@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3c0d3b3507d117cd"]={"id":"c3c0d3b3507d117cd","lines":[{"uid":"TEXT_TALK_WND_EP_13_03_010","id":"TEXT_TALK_WND_EP_13_03_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"要朝塔前进了吗。现在的状况不管发生什么都不奇怪。你要小心啊。","ja":"塔に向かうのか。なにが起きてもおかしくない状況だからな。気を付けて行って来いよ。"},"kind":"dialogue"}]};

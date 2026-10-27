@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c90fd6c99df977e95"]={"id":"c90fd6c99df977e95","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_03_010","id":"TEXT_TALK_WND_TA_ch_sin_03_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"收集文献也告一段落了，稍微休息一下吧……","ja":"文献集めも目途がついたしちょっと一休みしようかしら……。"},"kind":"dialogue"}]};

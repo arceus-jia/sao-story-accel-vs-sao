@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c50f1250aef8efd20"]={"id":"c50f1250aef8efd20","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_08_010","id":"TEXT_TALK_WND_TA_ch_kir_08_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"得好好创造出……许多与家人间的回忆才行啊。","ja":"家族の思い出……いっぱい作らないとな。"},"kind":"dialogue"}]};

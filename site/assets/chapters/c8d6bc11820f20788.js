@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8d6bc11820f20788"]={"id":"c8d6bc11820f20788","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_10_010","id":"TEXT_TALK_WND_TA_ch_kir_10_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"下次一起去解任务吧。","ja":"今度いっしょにクエスト行こうぜ。"},"kind":"dialogue"}]};

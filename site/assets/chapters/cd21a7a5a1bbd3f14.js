@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd21a7a5a1bbd3f14"]={"id":"cd21a7a5a1bbd3f14","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_02_010","id":"TEXT_TALK_WND_TA_av_pil_02_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"莉法小姐的剑技真的很值得参考啊。","ja":"リーファさんの剣筋すごく参考になるなぁ。"},"kind":"dialogue"}]};

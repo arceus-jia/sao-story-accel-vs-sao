@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce47e70a7a0e8edbf"]={"id":"ce47e70a7a0e8edbf","lines":[{"uid":"TEXT_TALK_BAL_EP_11_10_010","id":"TEXT_TALK_BAL_EP_11_10_010","speaker":{},"text":{"cn":"可以使用〈表情动作〉来坐下喔。","ja":"≪ジェスチャー≫操作で座れるよ。"},"kind":"narration"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c30d1ff0281edcd71"]={"id":"c30d1ff0281edcd71","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_05_010","id":"TEXT_TALK_WND_TA_ch_str_05_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"我也不是一天到晚说话都不正经。","ja":"そんなにいつも冗談ばっかり言ってるつもりないんだけどなぁ。"},"kind":"dialogue"}]};

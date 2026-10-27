@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0b0f82dbf7f6d37c"]={"id":"c0b0f82dbf7f6d37c","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_08_010","id":"TEXT_TALK_WND_TA_ch_str_08_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"接下来要做什么好玩的事呢？","ja":"次はどんな楽しいことやろっかな？"},"kind":"dialogue"}]};

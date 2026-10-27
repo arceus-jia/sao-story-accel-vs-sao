@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cda3ffec6e53d061b"]={"id":"cda3ffec6e53d061b","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_07_010","id":"TEXT_TALK_WND_TA_ch_sil_07_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"……今天总觉得耳朵附近特别敏感。","ja":"……今日はなんだか耳のあたりが敏感な気がします。"},"kind":"dialogue"}]};

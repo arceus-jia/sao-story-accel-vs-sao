@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7213c23ca58263d9"]={"id":"c7213c23ca58263d9","lines":[{"uid":"TEXT_ADV_SUB_2430100010","id":"TEXT_ADV_SUB_2430100010","speaker":{"cn":"黑雪公主","ja":"黒雪姫"},"text":{"cn":"似乎收到消息了。","ja":"メッセージが届いていたな。"},"kind":"dialogue"}]};

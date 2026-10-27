@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c1ca47da7d3ad2438"]={"id":"c1ca47da7d3ad2438","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_05_010","id":"TEXT_TALK_WND_TA_ch_agi_05_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"疲累的时候，建议你吃点甜的东西。","ja":"疲れたときは、甘いものをお勧めするぜ。"},"kind":"dialogue"}]};

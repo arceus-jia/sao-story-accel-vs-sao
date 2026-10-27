@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c20acbe6272e9937d"]={"id":"c20acbe6272e9937d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_vab_03_010","id":"TEXT_TALK_WND_TA_ch_vab_03_010","speaker":{"cn":"佩索娜・梵贝尔","ja":"ペルソナ・ヴァベル"},"text":{"cn":"呵呵，斯朵蕾雅还是老样子呢。","ja":"ふふふ、ストレアは相変わらずですね。"},"kind":"dialogue"}]};

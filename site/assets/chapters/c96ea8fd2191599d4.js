@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c96ea8fd2191599d4"]={"id":"c96ea8fd2191599d4","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_04_010","id":"TEXT_TALK_WND_TA_av_lot_04_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"……像这样混在人潮中走路意外的有趣。","ja":"……こうして群衆にまぎれて歩くのも意外と面白いものだな。"},"kind":"dialogue"}]};

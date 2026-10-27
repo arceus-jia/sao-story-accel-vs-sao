@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cda3d5bff44f49ce7"]={"id":"cda3d5bff44f49ce7","lines":[{"uid":"TEXT_TALK_WND_EP_05_05_010","id":"TEXT_TALK_WND_EP_05_05_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"这附近似乎会出现可怕的家伙喔。你们也小心点啊！","ja":"この近辺におっかないやつが出るらしいぞ。君達も気を付けてな！"},"kind":"dialogue"}]};

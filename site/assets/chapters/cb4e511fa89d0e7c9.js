@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb4e511fa89d0e7c9"]={"id":"cb4e511fa89d0e7c9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sum_01_010","id":"TEXT_TALK_WND_TA_ch_sum_01_010","speaker":{"cn":"皇","ja":"スメラギ"},"text":{"cn":"哼……想战斗的话我随时奉陪。","ja":"フッ……戦いたければいつでも相手になってやろう。"},"kind":"dialogue"}]};

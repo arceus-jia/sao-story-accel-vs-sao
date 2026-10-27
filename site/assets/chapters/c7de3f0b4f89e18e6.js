@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7de3f0b4f89e18e6"]={"id":"c7de3f0b4f89e18e6","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yun_03_010","id":"TEXT_TALK_WND_TA_ch_yun_03_010","speaker":{"cn":"尤娜","ja":"ユナ"},"text":{"cn":"谢谢大家听我唱歌！","ja":"歌を聞いてくれて、ありがとう！"},"kind":"dialogue"}]};

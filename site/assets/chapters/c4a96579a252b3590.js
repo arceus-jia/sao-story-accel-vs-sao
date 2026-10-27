@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4a96579a252b3590"]={"id":"c4a96579a252b3590","lines":[{"uid":"TEXT_TALK_WND_EP_15_01_010","id":"TEXT_TALK_WND_EP_15_01_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"冰山上空似乎出现了幽灵船。","ja":"氷山上空に幽霊船が出たらしいな。"},"kind":"dialogue"}]};

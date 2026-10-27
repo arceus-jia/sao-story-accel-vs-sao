@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce5941c7e548c40ec"]={"id":"ce5941c7e548c40ec","lines":[{"uid":"TEXT_TALK_WND_SDEV_11_ch_sak_010","id":"TEXT_TALK_WND_SDEV_11_ch_sak_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"嗯？　有什么事吗？","ja":"うん？　何か用かな？"},"kind":"dialogue"}]};

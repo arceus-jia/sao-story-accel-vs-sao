@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3fd9933dd8a8f91f"]={"id":"c3fd9933dd8a8f91f","lines":[{"uid":"TEXT_TALK_WND_EP_04_02_010","id":"TEXT_TALK_WND_EP_04_02_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"有一个闪烁着银光的虚拟角色在天上飞翔。闪闪发光的翅膀真是好漂亮啊。","ja":"銀色に光るアバターが空を飛んでたよ。キラッと光る翼が綺麗だったなぁ。"},"kind":"dialogue"}]};

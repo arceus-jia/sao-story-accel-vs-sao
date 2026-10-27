@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3606454ae1ad7473"]={"id":"c3606454ae1ad7473","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_04_010","id":"TEXT_TALK_WND_TA_ch_agi_04_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"越是辛苦，越需要一个能好好休息的地方啊。","ja":"大変なときこそ憩いの場ってもんが必要なのさ。"},"kind":"dialogue"}]};

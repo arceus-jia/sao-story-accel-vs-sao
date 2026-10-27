@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbb321354c244c3a9"]={"id":"cbb321354c244c3a9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_03_010","id":"TEXT_TALK_WND_TA_ch_sil_03_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"我想要帮上更多大家的忙！","ja":"あたし、もっと皆さんのお役に立ちたいです！"},"kind":"dialogue"}]};

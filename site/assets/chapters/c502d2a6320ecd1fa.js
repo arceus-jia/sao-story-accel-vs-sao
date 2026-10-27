@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c502d2a6320ecd1fa"]={"id":"c502d2a6320ecd1fa","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_01_010","id":"TEXT_TALK_WND_TA_ch_met_01_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"就说我不是宠物了！","ja":"だから、私はペットではないと言っているのです！"},"kind":"dialogue"}]};

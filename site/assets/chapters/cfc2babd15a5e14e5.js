@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfc2babd15a5e14e5"]={"id":"cfc2babd15a5e14e5","lines":[{"uid":"TEXT_TALK_WND_EP_14_08_010","id":"TEXT_TALK_WND_EP_14_08_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"启动大空洞的控制台了吗？得好好确认一下是否有确实动作啊。","ja":"大空洞のコンソールは起動した？ちゃんと動くか確かめないとね。"},"kind":"dialogue"}]};

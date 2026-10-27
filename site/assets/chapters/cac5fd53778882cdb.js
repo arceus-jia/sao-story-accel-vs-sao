@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cac5fd53778882cdb"]={"id":"cac5fd53778882cdb","lines":[{"uid":"TEXT_TALK_WND_NTD_av_rai_010","id":"TEXT_TALK_WND_NTD_av_rai_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"没事啦。","ja":"特に用はねえな。"},"kind":"dialogue"}]};

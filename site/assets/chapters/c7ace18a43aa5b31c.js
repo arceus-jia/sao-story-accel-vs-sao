@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7ace18a43aa5b31c"]={"id":"c7ace18a43aa5b31c","lines":[{"uid":"TEXT_TALK_WND_TA_av_uni_02_010","id":"TEXT_TALK_WND_TA_av_uni_02_010","speaker":{"cn":"Nitride Uncia","ja":"ナイトライド・ウニカ"},"text":{"cn":"……感觉身体非常轻盈。","ja":"……身体がとても軽い気がする。"},"kind":"dialogue"}]};

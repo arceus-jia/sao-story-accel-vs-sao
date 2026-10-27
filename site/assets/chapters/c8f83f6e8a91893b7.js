@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8f83f6e8a91893b7"]={"id":"c8f83f6e8a91893b7","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_07_010","id":"TEXT_TALK_WND_TA_av_pil_07_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"好，下次的比赛要全力以赴！","ja":"よし、次の試合は気合い入れるか！"},"kind":"dialogue"}]};

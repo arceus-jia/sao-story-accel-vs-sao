@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["caa14e4d266f43b74"]={"id":"caa14e4d266f43b74","lines":[{"uid":"TEXT_TALK_BAL_EP_14_09_010","id":"TEXT_TALK_BAL_EP_14_09_010","speaker":{},"text":{"cn":"嘶哈……ＭＰ都干了……。","ja":"ゼェハァ……ＭＰ空っぽだよ……。"},"kind":"narration"}]};

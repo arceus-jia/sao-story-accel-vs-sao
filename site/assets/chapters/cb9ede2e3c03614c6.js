@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb9ede2e3c03614c6"]={"id":"cb9ede2e3c03614c6","lines":[{"uid":"TEXT_TALK_WND_EP_07_03_010","id":"TEXT_TALK_WND_EP_07_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"听说冰山有具骷髅骑着机车四处叫嚣！真、真的啦！　我没骗你！","ja":"氷山で骸骨がバイクを乗り回してウェイウェイウェイだったんだよ！ほ、ほんとだってば！　うそじゃないって！"},"kind":"dialogue"}]};

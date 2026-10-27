@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca517f5d0ecbf7bc1"]={"id":"ca517f5d0ecbf7bc1","lines":[{"uid":"TEXT_TALK_WND_SDEV_13_ch_lux_010","id":"TEXT_TALK_WND_SDEV_13_ch_lux_010","speaker":{"cn":"露可思","ja":"ルクス"},"text":{"cn":"莉兹、西莉卡、莉法……你们在哪里？","ja":"リズ、シリカ、リーファ……どこにいるんだろうか？"},"kind":"dialogue"}]};

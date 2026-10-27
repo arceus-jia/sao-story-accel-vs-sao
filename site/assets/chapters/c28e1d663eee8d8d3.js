@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c28e1d663eee8d8d3"]={"id":"c28e1d663eee8d8d3","lines":[{"uid":"TEXT_TALK_BAL_EP_11_11_010","id":"TEXT_TALK_BAL_EP_11_11_010","speaker":{},"text":{"cn":"〈坐下１〉跟〈坐下２〉选哪个都可以。","ja":"≪座る１≫と≪座る２≫どっちでもいいぜ。"},"kind":"narration"}]};

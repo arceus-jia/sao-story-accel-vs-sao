@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cef9886b1bf746600"]={"id":"cef9886b1bf746600","lines":[{"uid":"TEXT_TALK_BAL_CA_46_010","id":"TEXT_TALK_BAL_CA_46_010","speaker":{},"text":{"cn":"买到最受欢迎的蛋糕了！","ja":"一番人気のケーキゲット！"},"kind":"narration"},{"uid":"TEXT_TALK_BAL_CA_46_020","id":"TEXT_TALK_BAL_CA_46_020","speaker":{},"text":{"cn":"呜，卖光了～。","ja":"う、売り切れちゃうよ～。"},"kind":"narration"}]};

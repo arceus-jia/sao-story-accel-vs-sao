@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7bfdbabe96551dd6"]={"id":"c7bfdbabe96551dd6","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_06_010","id":"TEXT_TALK_WND_TA_ch_kle_06_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"也许是心理作用，最近的我……感觉越来越帅了呢……。","ja":"心なしか、最近の俺……いい男になってきた気がするぞ……。"},"kind":"dialogue"}]};

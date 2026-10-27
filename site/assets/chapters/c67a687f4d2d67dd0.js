@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c67a687f4d2d67dd0"]={"id":"c67a687f4d2d67dd0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_08_010","id":"TEXT_TALK_WND_TA_ch_rai_08_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"达斯维塔尼亚！这是下次再会的意思喔♪","ja":"ダスヴィダーニャ！また会いましょうって意味よ♪"},"kind":"dialogue"}]};

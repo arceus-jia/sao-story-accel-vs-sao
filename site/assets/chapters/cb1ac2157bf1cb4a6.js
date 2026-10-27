@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb1ac2157bf1cb4a6"]={"id":"cb1ac2157bf1cb4a6","lines":[{"uid":"TEXT_TALK_WND_TA_ch_vab_02_010","id":"TEXT_TALK_WND_TA_ch_vab_02_010","speaker":{"cn":"佩索娜・梵贝尔","ja":"ペルソナ・ヴァベル"},"text":{"cn":"能成为爸爸妈妈的女儿，我好幸福。","ja":"パパとママの娘でいられてわたしは幸せです。"},"kind":"dialogue"}]};

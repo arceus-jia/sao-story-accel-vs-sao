@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc44cdb182420ac8f"]={"id":"cc44cdb182420ac8f","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_02_010","id":"TEXT_TALK_WND_TA_ch_kir_02_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"黄昏的城镇也不坏啊……","ja":"夕暮れの街も悪くないな……。"},"kind":"dialogue"}]};

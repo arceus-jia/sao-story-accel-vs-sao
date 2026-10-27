@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cecfb552eb5eac5ca"]={"id":"cecfb552eb5eac5ca","lines":[{"uid":"TEXT_TALK_WND_EP_08_12_010","id":"TEXT_TALK_WND_EP_08_12_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"唷，已经跟玛丽姊说过话了吗？","ja":"よう、マリ姐とはもう話したか？"},"kind":"dialogue"}]};

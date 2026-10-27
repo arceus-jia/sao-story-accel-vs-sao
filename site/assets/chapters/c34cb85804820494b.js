@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c34cb85804820494b"]={"id":"c34cb85804820494b","lines":[{"uid":"TEXT_MAIL_FQ14_001_BEAR_TITLE","id":"TEXT_MAIL_FQ14_001_BEAR_TITLE","speaker":{},"text":{"cn":"马达，很够劲呢！","ja":"モーター、滾るねェ！"},"kind":"narration"}]};

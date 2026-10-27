@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c75b4cd928f09de3f"]={"id":"c75b4cd928f09de3f","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sum_03_010","id":"TEXT_TALK_WND_TA_ch_sum_03_010","speaker":{"cn":"皇","ja":"スメラギ"},"text":{"cn":"我不会再输给任何人了，做好觉悟吧。","ja":"もう誰にも負けぬつもりだ、覚悟しておけ。"},"kind":"dialogue"}]};

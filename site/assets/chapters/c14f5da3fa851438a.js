@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c14f5da3fa851438a"]={"id":"c14f5da3fa851438a","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_06_010","id":"TEXT_TALK_WND_TA_av_bel_06_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"小拓好像变可靠了一点呢。","ja":"タッくんも少しはたくましくなったかな。"},"kind":"dialogue"}]};

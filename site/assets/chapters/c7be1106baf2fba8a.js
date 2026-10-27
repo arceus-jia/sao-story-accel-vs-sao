@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7be1106baf2fba8a"]={"id":"c7be1106baf2fba8a","lines":[{"uid":"TEXT_TALK_BAL_TO_43_010","id":"TEXT_TALK_BAL_TO_43_010","speaker":{},"text":{"cn":"连面对头目都不怕的样子，真是帅！","ja":"ボスにも怯まぬ姿、かっこいい！"},"kind":"narration"},{"uid":"TEXT_TALK_BAL_TO_43_020","id":"TEXT_TALK_BAL_TO_43_020","speaker":{},"text":{"cn":"咦～！　我也想加入！","ja":"え～っ！　あたしも入りたい！"},"kind":"narration"}]};

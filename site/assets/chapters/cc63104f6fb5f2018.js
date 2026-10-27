@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc63104f6fb5f2018"]={"id":"cc63104f6fb5f2018","lines":[{"uid":"TEXT_TALK_WND_TA_ch_arg_04_010","id":"TEXT_TALK_WND_TA_ch_arg_04_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"嗯？我脸上沾到什么了吗？","ja":"ん？オレっちの顔に何かついてるか？"},"kind":"dialogue"}]};

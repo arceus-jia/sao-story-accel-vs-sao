@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2880fa01b439572c"]={"id":"c2880fa01b439572c","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_07_010","id":"TEXT_TALK_WND_TA_ch_kle_07_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"唔嗯～火精灵族里最有男子气概的果然还是我了！","ja":"うーむ、サラマンダーの野郎の中で一番の男前は、やっぱ俺だな！"},"kind":"dialogue"}]};

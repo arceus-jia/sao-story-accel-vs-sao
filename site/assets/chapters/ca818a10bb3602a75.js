@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca818a10bb3602a75"]={"id":"ca818a10bb3602a75","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lux_01_010","id":"TEXT_TALK_WND_TA_ch_lux_01_010","speaker":{"cn":"露可思","ja":"ルクス"},"text":{"cn":"如果需要我的力量，我很乐意帮忙。","ja":"私の力が必要なら、喜んで手を貸そう。"},"kind":"dialogue"}]};

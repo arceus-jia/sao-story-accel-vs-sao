@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c24ee24fd6fff2466"]={"id":"c24ee24fd6fff2466","lines":[{"uid":"TEXT_TALK_WND_SU_00_010","id":"TEXT_TALK_WND_SU_00_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"拜托你了喔。","ja":"よろしく頼んだぞ。"},"kind":"dialogue"}]};

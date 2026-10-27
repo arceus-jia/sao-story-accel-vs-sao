@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c68bc01ad35c7c3de"]={"id":"c68bc01ad35c7c3de","lines":[{"uid":"TEXT_TALK_WND_TA_ch_alc_01_010","id":"TEXT_TALK_WND_TA_ch_alc_01_010","speaker":{"cn":"爱丽丝","ja":"アリス"},"text":{"cn":"我得完成集成骑士的义务才行……","ja":"整合騎士としての務めを果たさなくては……"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c47f471a2f8daa5fd"]={"id":"c47f471a2f8daa5fd","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_05_010","id":"TEXT_TALK_WND_TA_ch_rai_05_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"一个人玩也不错，但还是跟大家在一起开心。","ja":"ソロもいいけどやっぱりみんなと一緒だと楽しいな。"},"kind":"dialogue"}]};

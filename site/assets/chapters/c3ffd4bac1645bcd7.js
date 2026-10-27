@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3ffd4bac1645bcd7"]={"id":"c3ffd4bac1645bcd7","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_03_010","id":"TEXT_TALK_WND_TA_ch_phi_03_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"成功地找出沉睡在世界各地的财宝……那就是我的工作。","ja":"世界中のあちこちに眠る財宝を首尾よく見つけ出す……それが私の仕事よ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c65749fc230be28ed"]={"id":"c65749fc230be28ed","lines":[{"uid":"TEXT_TALK_KAI_GR_00_01","id":"TEXT_TALK_KAI_GR_00_01","speaker":{},"text":{"cn":"快教我！！　斯朵蕾雅老师","ja":"教えて！！　ストレア先生"},"kind":"narration"}]};

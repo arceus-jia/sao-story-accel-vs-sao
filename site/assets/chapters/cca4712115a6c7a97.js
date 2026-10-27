@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cca4712115a6c7a97"]={"id":"cca4712115a6c7a97","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_02_010","id":"TEXT_TALK_WND_TA_ch_sil_02_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"好，我跟毕娜都要加油喔～！","ja":"よし、あたしもピナも頑張りますよー！"},"kind":"dialogue"}]};

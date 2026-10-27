@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c64befb083d7e9658"]={"id":"c64befb083d7e9658","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_09_010","id":"TEXT_TALK_WND_TA_ch_lea_09_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"好～明天的练习就鼓足气势吧～！","ja":"よーし、明日の稽古は気合い入れるぞー！"},"kind":"dialogue"}]};

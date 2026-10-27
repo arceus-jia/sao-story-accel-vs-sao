@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5790ce1d3ba2e67c"]={"id":"c5790ce1d3ba2e67c","lines":[{"uid":"TEXT_ADV_MAIN_0040410010","id":"TEXT_ADV_MAIN_0040410010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"没什么反应……","ja":"特になにも反応しないな……"},"kind":"dialogue"}]};

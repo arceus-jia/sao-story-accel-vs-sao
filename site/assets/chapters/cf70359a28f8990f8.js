@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf70359a28f8990f8"]={"id":"cf70359a28f8990f8","lines":[{"uid":"TEXT_ADV_SUB_2440100010","id":"TEXT_ADV_SUB_2440100010","speaker":{"cn":"春雪","ja":"ハルユキ"},"text":{"cn":"看看谁寄的……","ja":"えーっと………"},"kind":"dialogue"}]};

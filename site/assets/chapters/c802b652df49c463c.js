@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c802b652df49c463c"]={"id":"c802b652df49c463c","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_03_010","id":"TEXT_TALK_WND_TA_av_cur_03_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"水精灵……我对这种族相当感兴趣呢。","ja":"ウンディーネ……水の妖精にはかなり興味があるの。"},"kind":"dialogue"}]};

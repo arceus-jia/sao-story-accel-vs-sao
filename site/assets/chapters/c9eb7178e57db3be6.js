@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9eb7178e57db3be6"]={"id":"c9eb7178e57db3be6","lines":[{"uid":"TEXT_TALK_WND_EP_07_09_010","id":"TEXT_TALK_WND_EP_07_09_010","speaker":{"cn":"爱梅莉亚","ja":"アメリア"},"text":{"cn":"你找到我的劲敌了吗？","ja":"あたしのライバルは見つけてくれた？"},"kind":"dialogue"}]};

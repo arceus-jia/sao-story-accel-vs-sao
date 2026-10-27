@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c411c57347c9d29a7"]={"id":"c411c57347c9d29a7","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ali_04_010","id":"TEXT_TALK_WND_TA_ch_ali_04_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"……那个叫Ｂｌｏｏｄ Ｌｅｏｐａｒｄ的女生，真想让她加入我们猫妖旗下啊♪","ja":"……ブラッド・レパードって子ぜひ我がケットシー領にスカウトしたいネ♪"},"kind":"dialogue"}]};

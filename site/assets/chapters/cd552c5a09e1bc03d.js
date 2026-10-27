@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd552c5a09e1bc03d"]={"id":"cd552c5a09e1bc03d","lines":[{"uid":"TEXT_ADV_MAIN_0040730010","id":"TEXT_ADV_MAIN_0040730010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"这里安全，没追过来。","ja":"ここなら安全。追ってこない。"},"kind":"dialogue"}]};

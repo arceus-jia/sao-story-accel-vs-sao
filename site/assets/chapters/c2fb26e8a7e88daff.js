@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2fb26e8a7e88daff"]={"id":"c2fb26e8a7e88daff","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_09_010","id":"TEXT_TALK_WND_TA_ch_sin_09_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"我再也不会让任何人摸到我的尾巴了。","ja":"私の尻尾は、もう絶対誰にもさわらせないんだから。"},"kind":"dialogue"}]};

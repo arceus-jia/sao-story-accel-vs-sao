@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c75d251cf0181bf11"]={"id":"c75d251cf0181bf11","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_07_010","id":"TEXT_TALK_WND_TA_av_leo_07_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"我对自己的速度还不满意。","ja":"自分自身のスピードはまだ満足していない。"},"kind":"dialogue"}]};

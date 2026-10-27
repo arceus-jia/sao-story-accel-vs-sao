@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0c2b013ec25ddca9"]={"id":"c0c2b013ec25ddca9","lines":[{"uid":"TEXT_TALK_WND_SU_44_010","id":"TEXT_TALK_WND_SU_44_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"异界水晶的污染正逐渐被净化。还差一点就能解决了。","ja":"異界の水晶は殆ど穢れが払われている。もう少しだな。"},"kind":"dialogue"}]};

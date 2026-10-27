@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7f2e8b672d70134e"]={"id":"c7f2e8b672d70134e","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_01_010","id":"TEXT_TALK_WND_TA_av_bel_01_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"这个城镇真棒……感觉会有很多时髦的店呢♪","ja":"いいな、この街……お洒落な店、いろいろありそうな感じ♪"},"kind":"dialogue"}]};

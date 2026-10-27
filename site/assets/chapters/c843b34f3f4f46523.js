@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c843b34f3f4f46523"]={"id":"c843b34f3f4f46523","lines":[{"uid":"TEXT_TALK_WND_SDEV_16_av_lot_030","id":"TEXT_TALK_WND_SDEV_16_av_lot_030","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"有没有看到春雪？","ja":"ハルユキ君を見かけなかったか？"},"kind":"dialogue"}]};

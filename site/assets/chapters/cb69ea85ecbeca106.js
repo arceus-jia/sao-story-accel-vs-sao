@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb69ea85ecbeca106"]={"id":"cb69ea85ecbeca106","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_01_010","id":"TEXT_TALK_WND_TA_av_mai_01_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"我随时都准备好帮助大家。","ja":"いつでも皆さんのお役に立てるつもりなのです。"},"kind":"dialogue"}]};

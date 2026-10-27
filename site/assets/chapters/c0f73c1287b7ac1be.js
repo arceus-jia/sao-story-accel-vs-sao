@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0f73c1287b7ac1be"]={"id":"c0f73c1287b7ac1be","lines":[{"uid":"TEXT_TALK_WND_EP_10_04_010","id":"TEXT_TALK_WND_EP_10_04_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"沙漠似乎出现了可怕的家伙。不过所谓我不犯人，人不犯我嘛。","ja":"砂漠におっかないやつが出たらしいね。さわらぬ神にたたりなし、と。"},"kind":"dialogue"}]};

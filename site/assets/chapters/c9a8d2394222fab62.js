@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9a8d2394222fab62"]={"id":"c9a8d2394222fab62","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_04_010","id":"TEXT_TALK_WND_TA_av_pil_04_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"我好担心小千会不会又乱来了。","ja":"チーちゃんが無茶しないか心配だよ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfaaf0e8cf1899e8b"]={"id":"cfaaf0e8cf1899e8b","lines":[{"uid":"TEXT_TALK_WND_TA_ch_alc_03_010","id":"TEXT_TALK_WND_TA_ch_alc_03_010","speaker":{"cn":"爱丽丝","ja":"アリス"},"text":{"cn":"……绝不原谅拥有邪恶之心的人！","ja":"……邪な心の持ち主は容赦しません！"},"kind":"dialogue"}]};

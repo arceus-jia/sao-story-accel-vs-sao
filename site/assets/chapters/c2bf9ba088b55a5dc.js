@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2bf9ba088b55a5dc"]={"id":"c2bf9ba088b55a5dc","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yui_03_010","id":"TEXT_TALK_WND_TA_ch_yui_03_010","speaker":{"cn":"结衣","ja":"ユイ"},"text":{"cn":"我最喜欢爸爸妈妈还有大家了！","ja":"パパやママ、そしてみんなのことがわたし大好きです！"},"kind":"dialogue"}]};

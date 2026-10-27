@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cddae3130bc6ca069"]={"id":"cddae3130bc6ca069","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_06_010","id":"TEXT_TALK_WND_TA_ch_lea_06_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"别看我这样，我对神话跟传说还满清楚的喔。","ja":"こう見えても神話や伝説には結構くわしいんだからね。"},"kind":"dialogue"}]};

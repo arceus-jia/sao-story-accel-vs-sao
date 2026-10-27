@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb47db4d1b543c839"]={"id":"cb47db4d1b543c839","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_02_010","id":"TEXT_TALK_WND_TA_ch_lea_02_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"城镇的景色好美啊。","ja":"街の景色、結構きれいだよね。"},"kind":"dialogue"}]};

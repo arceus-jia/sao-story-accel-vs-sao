@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca3637c691f389285"]={"id":"ca3637c691f389285","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_04_010","id":"TEXT_TALK_WND_TA_av_bel_04_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"唉，好想摸摸毛茸茸的东西喔……。","ja":"はぁ、モフモフしたい……。"},"kind":"dialogue"}]};

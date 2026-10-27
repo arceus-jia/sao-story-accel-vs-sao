@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc396cfbc25f8f069"]={"id":"cc396cfbc25f8f069","lines":[{"uid":"TEXT_TALK_WND_SDEV_40_ch_arg_010","id":"TEXT_TALK_WND_SDEV_40_ch_arg_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"有看见桐人小子吗？","ja":"キー坊を見なかったカ？"},"kind":"dialogue"}]};

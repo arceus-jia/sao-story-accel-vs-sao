@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c912f7f417ee2dbf5"]={"id":"c912f7f417ee2dbf5","lines":[{"uid":"TEXT_TALK_WND_EP_15_02_010","id":"TEXT_TALK_WND_EP_15_02_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"幽灵船啊骷髅啊什么的……冰山是这样的地方吗？呜，好冷啊……。","ja":"幽霊船とか骸骨とか……氷山ってそういう場所なの？うっ、寒気が……。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cabb76b5e321a072a"]={"id":"cabb76b5e321a072a","lines":[{"uid":"TEXT_TALK_WND_NTD_av_rol_010","id":"TEXT_TALK_WND_NTD_av_rol_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"Ｎｏｔｈｉｎｇ事啦！","ja":"特に用はナッシング！"},"kind":"dialogue"}]};

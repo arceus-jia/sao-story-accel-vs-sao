@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c09616ce8e82be02a"]={"id":"c09616ce8e82be02a","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_02_010","id":"TEXT_TALK_WND_TA_ch_agi_02_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"我只是采买途中小憩片刻。","ja":"買い出しの途中で、一息入れてるとこさ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ccd57c31de5470c04"]={"id":"ccd57c31de5470c04","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_06_010","id":"TEXT_TALK_WND_TA_ch_str_06_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"好～来跟结衣玩个痛快吧～♪","ja":"よーし、ユイといっぱい遊ぶぞ～♪"},"kind":"dialogue"}]};

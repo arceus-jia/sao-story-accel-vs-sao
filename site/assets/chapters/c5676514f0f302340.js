@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5676514f0f302340"]={"id":"c5676514f0f302340","lines":[{"uid":"TEXT_TALK_WND_TA_av_uni_03_010","id":"TEXT_TALK_WND_TA_av_uni_03_010","speaker":{"cn":"Nitride Uncia","ja":"ナイトライド・ウニカ"},"text":{"cn":"大家都是亲切的好人。","ja":"みんな親切で、いい人たち。"},"kind":"dialogue"}]};

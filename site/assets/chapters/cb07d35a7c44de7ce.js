@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb07d35a7c44de7ce"]={"id":"cb07d35a7c44de7ce","lines":[{"uid":"TEXT_TALK_WND_EP_03_06_010","id":"TEXT_TALK_WND_EP_03_06_010","speaker":{"cn":"爱梅莉亚","ja":"アメリア"},"text":{"cn":"唉呀，这样好吗～？不告诉你情报了喔？","ja":"あれ、いいのかな～？情報教えてあげないよ？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2215ccde9fa2cf19"]={"id":"c2215ccde9fa2cf19","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_06_010","id":"TEXT_TALK_WND_TA_ch_sil_06_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"莉兹真是的，一直在四处宣传亚丝娜的那个绰号。","ja":"リズさんったら、例のアスナさんのあだ名を勝手に言いふらしてるんですよ。"},"kind":"dialogue"}]};

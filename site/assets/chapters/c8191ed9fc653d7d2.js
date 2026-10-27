@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8191ed9fc653d7d2"]={"id":"c8191ed9fc653d7d2","lines":[{"uid":"TEXT_MAIL_FQ14_001_BEARTEXT","id":"TEXT_MAIL_FQ14_001_BEARTEXT","speaker":{},"text":{"cn":"徒弟徒弟！有兴趣听个让人呼吸加快的话题吗！？马达啊……真的是很热血耶……！兴奋起来了对吧？后续等你到露天摊贩街再讲啰。","ja":"弟子クン弟子クン！鼻息荒くなるような話を聞きたくないかい！？モーターがねェ……熱いんだよねェ……！テンション上がってきただろ？続きはいつもの露店街でな。"},"kind":"narration"}]};

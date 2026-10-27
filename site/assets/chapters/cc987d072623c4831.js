@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc987d072623c4831"]={"id":"cc987d072623c4831","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_02_010","id":"TEXT_TALK_WND_TA_av_mai_02_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"千里之行始于足下。","ja":"千里の道も一歩から、なのです。"},"kind":"dialogue"}]};

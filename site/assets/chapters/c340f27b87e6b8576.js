@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c340f27b87e6b8576"]={"id":"c340f27b87e6b8576","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_07_010","id":"TEXT_TALK_WND_TA_ch_phi_07_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"我正在募集寻宝搭档喔！","ja":"宝探しのパートナー募集中だよ！"},"kind":"dialogue"}]};

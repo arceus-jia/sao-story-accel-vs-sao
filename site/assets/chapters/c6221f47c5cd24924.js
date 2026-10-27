@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6221f47c5cd24924"]={"id":"c6221f47c5cd24924","lines":[{"uid":"TEXT_TALK_WND_TA_ch_str_03_010","id":"TEXT_TALK_WND_TA_ch_str_03_010","speaker":{"cn":"斯朵蕾雅","ja":"ストレア"},"text":{"cn":"等等要不要到咖啡厅去玩呢♪","ja":"あとでカフェに遊びに行こうかな♪"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd951779504ff1ef4"]={"id":"cd951779504ff1ef4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sak_02_010","id":"TEXT_TALK_WND_TA_ch_sak_02_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"领主的任务……虽然不轻松却也是很有成就感的职务。","ja":"領主の務め……楽ではないが実にやりがいのある立場だ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8e245bf26491a8a1"]={"id":"c8e245bf26491a8a1","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_01_010","id":"TEXT_TALK_WND_TA_ch_asu_01_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"彼此都加油吧！","ja":"お互い頑張ろうね！"},"kind":"dialogue"}]};

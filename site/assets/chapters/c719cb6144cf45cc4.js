@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c719cb6144cf45cc4"]={"id":"c719cb6144cf45cc4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sak_05_010","id":"TEXT_TALK_WND_TA_ch_sak_05_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"我随时欢迎各位超频连接者来访风精灵的领地喔。","ja":"バーストリンカーの諸君ならいつでもシルフ領で歓迎しよう。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8cecd57558bec155"]={"id":"c8cecd57558bec155","lines":[{"uid":"TEXT_TALK_WND_SU_28_010","id":"TEXT_TALK_WND_SU_28_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"冰山的污染已经完全去除了。","ja":"氷山の穢れは完全に払われているぞ。"},"kind":"dialogue"}]};

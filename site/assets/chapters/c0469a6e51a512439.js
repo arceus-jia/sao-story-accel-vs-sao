@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0469a6e51a512439"]={"id":"c0469a6e51a512439","lines":[{"uid":"TEXT_TALK_WND_EP_05_06_010","id":"TEXT_TALK_WND_EP_05_06_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"南方浮岛似乎有神秘的虚拟角色。是新的敌方Ｍｏｂ吗？","ja":"南の浮島に謎のアバターがいるみたい。新手の敵Ｍｏｂかな？"},"kind":"dialogue"}]};

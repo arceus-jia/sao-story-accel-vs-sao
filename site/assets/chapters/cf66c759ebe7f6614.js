@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf66c759ebe7f6614"]={"id":"cf66c759ebe7f6614","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_01_010","id":"TEXT_TALK_WND_TA_ch_phi_01_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"就算很辛苦，还是加油吧！","ja":"大変だけど、頑張ろうね！"},"kind":"dialogue"}]};

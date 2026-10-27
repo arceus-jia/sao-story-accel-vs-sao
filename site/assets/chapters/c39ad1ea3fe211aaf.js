@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c39ad1ea3fe211aaf"]={"id":"c39ad1ea3fe211aaf","lines":[{"uid":"TEXT_MAIL_FQ09_001_BEAR_TITLE","id":"TEXT_MAIL_FQ09_001_BEAR_TITLE","speaker":{},"text":{"cn":"木桶，真棒啊","ja":"樽、イイねェ"},"kind":"narration"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cba0bc579216b5935"]={"id":"cba0bc579216b5935","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_05_010","id":"TEXT_TALK_WND_TA_ch_kir_05_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"要出门了吗……小心点啊。","ja":"出かけるのか……気をつけてな。"},"kind":"dialogue"}]};

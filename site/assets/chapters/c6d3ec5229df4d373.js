@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6d3ec5229df4d373"]={"id":"c6d3ec5229df4d373","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_09_010","id":"TEXT_TALK_WND_TA_ch_asu_09_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"明天的便当要做什么好呢？","ja":"明日のお弁当、何にしようかな？"},"kind":"dialogue"}]};

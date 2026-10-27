@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb1412738d9124079"]={"id":"cb1412738d9124079","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sak_01_010","id":"TEXT_TALK_WND_TA_ch_sak_01_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"随时要找我都可以喔。","ja":"いつでも声をかけてくれて構わんぞ。"},"kind":"dialogue"}]};

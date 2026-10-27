@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cdcb661e9e79d1ca6"]={"id":"cdcb661e9e79d1ca6","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_06_010","id":"TEXT_TALK_WND_TA_ch_agi_06_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"伤脑筋……克莱因那家伙最近太得意忘形了点啊。","ja":"やれやれ……クラインのやつこのところ、調子に乗り過ぎだな。"},"kind":"dialogue"}]};

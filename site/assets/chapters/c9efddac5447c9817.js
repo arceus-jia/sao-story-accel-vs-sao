@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9efddac5447c9817"]={"id":"c9efddac5447c9817","lines":[{"uid":"TEXT_TALK_WND_EP_15_04_010","id":"TEXT_TALK_WND_EP_15_04_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"要加工锻造材料吗？可以使用城里的锻造空间喔。","ja":"鍛冶素材の加工？街の鍛冶スペースを使うといいよ。"},"kind":"dialogue"}]};

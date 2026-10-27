@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c28827fa14b14bc90"]={"id":"c28827fa14b14bc90","lines":[{"uid":"TEXT_TALK_WND_TO_60_010","id":"TEXT_TALK_WND_TO_60_010","speaker":{"cn":"爱梅莉亚","ja":"アメリア"},"text":{"cn":"那么～下一个宝藏是……唔呵呵♪","ja":"さーて、次なるお宝は……ムフフ♪"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbabeea9e6b082e68"]={"id":"cbabeea9e6b082e68","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_04_010","id":"TEXT_TALK_WND_TA_ch_yuu_04_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"不管任何事，我都是全力以赴！","ja":"ボクはいつだって本気でぶつかっていくからね！"},"kind":"dialogue"}]};

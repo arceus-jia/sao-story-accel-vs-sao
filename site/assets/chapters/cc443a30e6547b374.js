@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc443a30e6547b374"]={"id":"cc443a30e6547b374","lines":[{"uid":"TEXT_TALK_WND_SDB_04_av_cro_020","id":"TEXT_TALK_WND_SDB_04_av_cro_020","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"桐人先生，还没来吗。","ja":"キリトさん、まだかなぁ。"},"kind":"dialogue"}]};

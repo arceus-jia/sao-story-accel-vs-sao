@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc05cd4293c4b314a"]={"id":"cc05cd4293c4b314a","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_03_010","id":"TEXT_TALK_WND_TA_ch_kir_03_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"建议你最好频繁确认能力值。","ja":"ステータスの確認はこまめにやることをお勧めするよ。"},"kind":"dialogue"}]};

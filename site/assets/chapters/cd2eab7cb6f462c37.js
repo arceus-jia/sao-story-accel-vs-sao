@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd2eab7cb6f462c37"]={"id":"cd2eab7cb6f462c37","lines":[{"uid":"TEXT_TALK_WND_TA_av_wri_01_010","id":"TEXT_TALK_WND_TA_av_wri_01_010","speaker":{"cn":"Tin Writer","ja":"ブリキ・ライター"},"text":{"cn":"诚如所见……即使长达千年的孤独，也被永恒的羁绊所治愈。","ja":"かくのごとく……永き千年の孤独でさえも消えぬ絆で癒されていくのだった、と。"},"kind":"dialogue"}]};

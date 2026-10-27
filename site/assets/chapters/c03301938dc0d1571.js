@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c03301938dc0d1571"]={"id":"c03301938dc0d1571","lines":[{"uid":"TEXT_TALK_WND_EP_14_01_010","id":"TEXT_TALK_WND_EP_14_01_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"出现在荒野上空的恐怖怪物……我可没自信打赢那种东西。","ja":"荒野の上空に出現したおっかないモンスター……あんなの勝てる気がしないよ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb5d550b4b6df6f17"]={"id":"cb5d550b4b6df6f17","lines":[{"uid":"TEXT_TALK_WND_EP_12_07_010","id":"TEXT_TALK_WND_EP_12_07_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"出现在沙漠的巨大光之门到底是通往哪呢。拜托你调查了！","ja":"砂漠に出た巨大な光の扉はどこに繋がってるんだろうな。調査、頼むぜ！"},"kind":"dialogue"}]};

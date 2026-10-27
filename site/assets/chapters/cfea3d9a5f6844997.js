@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfea3d9a5f6844997"]={"id":"cfea3d9a5f6844997","lines":[{"uid":"TEXT_TALK_WND_EP_12_03_010","id":"TEXT_TALK_WND_EP_12_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"以沙漠中的月亮为背景的狼嚎……真令人起鸡皮疙瘩啊。","ja":"砂漠の月をバックに狼の遠吠え……ゾクゾクするねぇ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb71ba67e5dc64962"]={"id":"cb71ba67e5dc64962","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_06_010","id":"TEXT_TALK_WND_TA_ch_sin_06_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"我想进一步提升自己使用远距离武器的能力……。","ja":"遠距離武器の使い手としてもっと強さを身につけたい……。"},"kind":"dialogue"}]};

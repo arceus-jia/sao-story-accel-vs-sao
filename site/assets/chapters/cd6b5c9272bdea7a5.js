@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd6b5c9272bdea7a5"]={"id":"cd6b5c9272bdea7a5","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_04_010","id":"TEXT_TALK_WND_TA_ch_asu_04_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"下次要挑战什么料理好呢？","ja":"今度はどんなお料理に挑戦しようかな？"},"kind":"dialogue"}]};

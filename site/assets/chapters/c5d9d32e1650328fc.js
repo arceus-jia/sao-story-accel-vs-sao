@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5d9d32e1650328fc"]={"id":"c5d9d32e1650328fc","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_07_010","id":"TEXT_TALK_WND_TA_av_cur_07_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"胜利固然重要，但好好享受游戏也很重要。","ja":"勝つのも大事だけどゲームを楽しむことも大事なの。"},"kind":"dialogue"}]};

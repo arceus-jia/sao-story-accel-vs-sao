@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c45deb1cfe3abd7ef"]={"id":"c45deb1cfe3abd7ef","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_10_010","id":"TEXT_TALK_WND_TA_ch_asu_10_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"我说，狂暴补师这说法是谁先起头的啊。","ja":"ねえ、バーサクヒーラーって誰が言い始めたんだろうね。"},"kind":"dialogue"}]};

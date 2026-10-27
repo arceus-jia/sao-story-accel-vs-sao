@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf4de99827c7458a8"]={"id":"cf4de99827c7458a8","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_02_010","id":"TEXT_TALK_WND_TA_ch_met_02_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"更加畏惧……然后更加崇敬我吧！","ja":"もっと畏れなさい……そして敬うのです！"},"kind":"dialogue"}]};

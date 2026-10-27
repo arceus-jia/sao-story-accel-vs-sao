@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c31203a8a6a035d14"]={"id":"c31203a8a6a035d14","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_02_010","id":"TEXT_TALK_WND_TA_ch_yuu_02_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"要去解任务的话，随时都可以找我喔！","ja":"クエスト行くんなら、いつでも誘ってよ！"},"kind":"dialogue"}]};

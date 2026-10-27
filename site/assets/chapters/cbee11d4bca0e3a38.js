@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbee11d4bca0e3a38"]={"id":"cbee11d4bca0e3a38","lines":[{"uid":"TEXT_TALK_WND_EP_05_02_010","id":"TEXT_TALK_WND_EP_05_02_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"虽然还有同伴留在草原的上空……但因为屏障档着好像回不来。","ja":"草原の上空に取り残されている仲間がいるんだけど……障壁が邪魔をして戻って来れないみたいなの。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7189508de3e40a69"]={"id":"c7189508de3e40a69","lines":[{"uid":"TEXT_TALK_WND_TA_ch_obe_03_010","id":"TEXT_TALK_WND_TA_ch_obe_03_010","speaker":{"cn":"奥伯龙","ja":"オベイロン"},"text":{"cn":"啊啊……我挚爱的蒂塔妮亚……","ja":"ああ……我が愛しのティターニア……。"},"kind":"dialogue"}]};

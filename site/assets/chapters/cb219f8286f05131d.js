@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb219f8286f05131d"]={"id":"cb219f8286f05131d","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_01_010","id":"TEXT_TALK_WND_TA_av_pil_01_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"小春他该不会又在哪边吃好料吧？","ja":"ハル、またどこかで美味しいもの食べてるのかな。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0419a65474e7d4b0"]={"id":"c0419a65474e7d4b0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_05_010","id":"TEXT_TALK_WND_TA_ch_yuu_05_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"我每次看到厉害的人，就忍不住想跟他比个高下啊～","ja":"強い人を見ると勝負したくなっちゃうんだよなー、ボク。"},"kind":"dialogue"}]};

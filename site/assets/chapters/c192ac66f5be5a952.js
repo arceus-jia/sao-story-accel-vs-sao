@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c192ac66f5be5a952"]={"id":"c192ac66f5be5a952","lines":[{"uid":"TEXT_TALK_WND_EP_17_04_020","id":"TEXT_TALK_WND_EP_17_04_020","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"你有看见春雪吗？","ja":"ハルユキを見なかったか？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c28b4523a578861e3"]={"id":"c28b4523a578861e3","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ali_02_010","id":"TEXT_TALK_WND_TA_ch_ali_02_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"好了～那就再去捉弄一下朔夜吧♪","ja":"さーて、またサクヤちゃんをからかいに行こうかナ♪"},"kind":"dialogue"}]};

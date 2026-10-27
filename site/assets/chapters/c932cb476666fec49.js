@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c932cb476666fec49"]={"id":"c932cb476666fec49","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_09_010","id":"TEXT_TALK_WND_TA_av_cro_09_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"亚丝娜小姐的料理感觉跟小百妈妈的料理不相上下啊……","ja":"アスナさんの料理ってチユのママの料理と互角かも……。"},"kind":"dialogue"}]};

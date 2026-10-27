@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c78d5a5619577f74b"]={"id":"c78d5a5619577f74b","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sev_03_010","id":"TEXT_TALK_WND_TA_ch_sev_03_010","speaker":{"cn":"赛玟","ja":"セブン"},"text":{"cn":"普利维耶特！这是姊姊教我的俄文唷。","ja":"プリヴィエート！お姉ちゃんが教えてくれたロシア語だよ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5fce29d2fe7092a4"]={"id":"c5fce29d2fe7092a4","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_04_010","id":"TEXT_TALK_WND_TA_ch_lis_04_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"超频连接者们的装甲……尤其是那个红色女孩的，相当令人好奇啊。","ja":"バーストリンカーたちの装甲……特に赤い子のが気になるわね。"},"kind":"dialogue"}]};

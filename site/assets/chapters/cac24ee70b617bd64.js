@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cac24ee70b617bd64"]={"id":"cac24ee70b617bd64","lines":[{"uid":"TEXT_TALK_WND_EP_09_04_010","id":"TEXT_TALK_WND_EP_09_04_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"水……绿洲的水动了……不，一定是我的错觉吧。","ja":"水……オアシスの水が動いて……いや、きっと気のせいよね。"},"kind":"dialogue"}]};

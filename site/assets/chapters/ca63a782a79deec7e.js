@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca63a782a79deec7e"]={"id":"ca63a782a79deec7e","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_03_010","id":"TEXT_TALK_WND_TA_ch_lea_03_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"呜～好痛……想朗诵高级魔法的咒语结果咬到舌头了……。","ja":"うー、いでで……上級魔法の呪文唱えようとして舌噛んじゃった……。"},"kind":"dialogue"}]};

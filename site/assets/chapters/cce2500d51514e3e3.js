@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cce2500d51514e3e3"]={"id":"cce2500d51514e3e3","lines":[{"uid":"TEXT_TALK_WND_EP_11_04_010","id":"TEXT_TALK_WND_EP_11_04_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"冰山的下方似乎还有什么东西啊。偶尔会觉得好像从下面传来地鸣声。","ja":"氷山の下にはまだなにかありそうだな。ときどき下の方から地響きが聞こえるような気がするんだ。"},"kind":"dialogue"}]};

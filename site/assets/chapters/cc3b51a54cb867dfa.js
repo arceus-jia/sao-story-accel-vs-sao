@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc3b51a54cb867dfa"]={"id":"cc3b51a54cb867dfa","lines":[{"uid":"TEXT_TALK_WND_SDQ_06_av_pil_010","id":"TEXT_TALK_WND_SDQ_06_av_pil_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"小春，人到哪去了呢？","ja":"ハル、どこにいるんだろう？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf80bd564791e7f5c"]={"id":"cf80bd564791e7f5c","lines":[{"uid":"TEXT_TALK_WND_EP_12_06_010","id":"TEXT_TALK_WND_EP_12_06_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"草原、冰山、沙漠……那么要怎么前往荒野呢？","ja":"草原、氷山、砂漠……荒野にはどうやって行くのかな？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce909bc45e9a01f8b"]={"id":"ce909bc45e9a01f8b","lines":[{"uid":"TEXT_ADV_MAIN_0020310010","id":"TEXT_ADV_MAIN_0020310010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"这什么……墙壁……？好像无法再往前进了。","ja":"なんだこれ……壁か……？この先には行けないみたいだな。"},"kind":"dialogue"}]};

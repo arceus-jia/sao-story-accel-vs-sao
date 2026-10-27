@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c08a012f3c9ac0814"]={"id":"c08a012f3c9ac0814","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_03_010","id":"TEXT_TALK_WND_TA_av_lot_03_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"这么说来，这里有各式各样的店呢。","ja":"それにしてもいろんな店があるものだ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0347743670dcffa2"]={"id":"c0347743670dcffa2","lines":[{"uid":"TEXT_TALK_WND_TA_av_lot_02_010","id":"TEXT_TALK_WND_TA_av_lot_02_010","speaker":{"cn":"Black Lotus","ja":"ブラック・ロータス"},"text":{"cn":"在这个城镇里，这打扮太招摇了吗……呵呵。","ja":"この街で、この格好は目立ちすぎるか……フフ。"},"kind":"dialogue"}]};

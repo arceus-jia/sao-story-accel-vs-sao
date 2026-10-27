@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4fc8f3632ec0f6af"]={"id":"c4fc8f3632ec0f6af","lines":[{"uid":"TEXT_MAIL_FQ09_001_BEARTEXT","id":"TEXT_MAIL_FQ09_001_BEARTEXT","speaker":{},"text":{"cn":"徒弟徒弟，有兴趣听个很无所谓的话题吗？其实桶子啊……真的是好桶子喔……很好奇对吧？要听后续就到城里的露天摊贩街吧。","ja":"弟子クン弟子クンどうでもいい話があるんだが聞きたくないかい？実は樽がねェ……イイ樽なんだよねェ……気になってきただろ？続きは街の露店街でな。"},"kind":"narration"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf2580cccf0c87623"]={"id":"cf2580cccf0c87623","lines":[{"uid":"TEXT_TALK_WND_EP_08_14_010","id":"TEXT_TALK_WND_EP_08_14_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"喔，平安找到同伴了吗！太好了！……所以，是哪个可爱美眉？","ja":"おっ、無事に仲間を見つけたか！良かったな！……で、どのかわいこちゃん？"},"kind":"dialogue"}]};

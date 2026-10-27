@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9b323346f5a86038"]={"id":"c9b323346f5a86038","lines":[{"uid":"TEXT_TALK_WND_TA_ch_arg_05_010","id":"TEXT_TALK_WND_TA_ch_arg_05_010","speaker":{"cn":"亚鲁戈","ja":"アルゴ"},"text":{"cn":"情报贩子不管在哪个城镇都是不可或缺的职业。","ja":"情報屋というのはどんな街でも必要な職業だゾ。"},"kind":"dialogue"}]};

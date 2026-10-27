@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf8c8dee3196f80e9"]={"id":"cf8c8dee3196f80e9","lines":[{"uid":"TEXT_TALK_WND_TA_av_bel_02_010","id":"TEXT_TALK_WND_TA_av_bel_02_010","speaker":{"cn":"Lime Bell","ja":"ライム・ベル"},"text":{"cn":"小春跟小拓又打算瞒着我一起出门……！","ja":"ハルとタッくん、またあたしに黙ってどっか行こうとしてる……！"},"kind":"dialogue"}]};

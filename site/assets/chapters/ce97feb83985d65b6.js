@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce97feb83985d65b6"]={"id":"ce97feb83985d65b6","lines":[{"uid":"TEXT_TALK_WND_EP_06_03_010","id":"TEXT_TALK_WND_EP_06_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"好像有庞然大物在草原胡闹的样子。我可不想被卷进去啊……。","ja":"草原でデカブツが派手に暴れまわってるぞ。あれには巻き込まれたくないな……。"},"kind":"dialogue"}]};

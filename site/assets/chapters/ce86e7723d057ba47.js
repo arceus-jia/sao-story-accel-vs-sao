@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce86e7723d057ba47"]={"id":"ce86e7723d057ba47","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_08_010","id":"TEXT_TALK_WND_TA_ch_kle_08_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"就让我这个火精灵……用火炎点燃你的心吧……呼～真想说看看这种话啊！","ja":"サラマンダーの私の炎で……貴女のハートを燃やしてみせる……くぅぅ、こんなセリフ言ってみてえ！"},"kind":"dialogue"}]};

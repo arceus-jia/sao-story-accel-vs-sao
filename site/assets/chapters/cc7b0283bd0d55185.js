@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cc7b0283bd0d55185"]={"id":"cc7b0283bd0d55185","lines":[{"uid":"TEXT_TALK_WND_EP_08_02_010","id":"TEXT_TALK_WND_EP_08_02_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"神殿、幻觉、小丑……玛丽姊的情报既快又正确。可以相信她。","ja":"神殿、幻惑、ピエロ……マリ姐の情報は早くて正確だ。信用していいぞ。"},"kind":"dialogue"}]};

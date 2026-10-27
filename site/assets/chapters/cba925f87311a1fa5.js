@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cba925f87311a1fa5"]={"id":"cba925f87311a1fa5","lines":[{"uid":"TEXT_TALK_WND_TA_av_rak_05_010","id":"TEXT_TALK_WND_TA_av_rak_05_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"Ａｓｈ也交到了新朋友，真是太好了。","ja":"アッシュにも、新しいお友達ができて本当によかったです。"},"kind":"dialogue"}]};

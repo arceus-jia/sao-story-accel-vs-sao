@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9a860b7d7f217b11"]={"id":"c9a860b7d7f217b11","lines":[{"uid":"TEXT_TALK_WND_EP_13_01_010","id":"TEXT_TALK_WND_EP_13_01_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"终于可以前往荒野了啊。干得好。","ja":"ついに荒野に行けるようになったんだね。やったじゃない。"},"kind":"dialogue"}]};

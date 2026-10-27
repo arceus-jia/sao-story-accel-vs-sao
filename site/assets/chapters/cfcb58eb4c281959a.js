@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfcb58eb4c281959a"]={"id":"cfcb58eb4c281959a","lines":[{"uid":"TEXT_TALK_BAL_CA_50_010","id":"TEXT_TALK_BAL_CA_50_010","speaker":{},"text":{"cn":"我有推荐的喔！","ja":"あたしオススメあるよ！"},"kind":"narration"},{"uid":"TEXT_TALK_BAL_CA_50_020","id":"TEXT_TALK_BAL_CA_50_020","speaker":{},"text":{"cn":"眼镜……有点可爱……。","ja":"眼鏡……ちょっとかわいい……。"},"kind":"narration"}]};

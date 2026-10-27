@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7382c64edf12d00e"]={"id":"c7382c64edf12d00e","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_08_010","id":"TEXT_TALK_WND_TA_ch_lea_08_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"哥哥他们出门了吗……真好啊。","ja":"お兄ちゃんたち出かけるのかぁ……いいなぁ。"},"kind":"dialogue"}]};

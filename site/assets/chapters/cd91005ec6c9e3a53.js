@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd91005ec6c9e3a53"]={"id":"cd91005ec6c9e3a53","lines":[{"uid":"TEXT_TALK_WND_SDEV_11_ch_ali_010","id":"TEXT_TALK_WND_SDEV_11_ch_ali_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"桐人你在哪里～？","ja":"キリトくんはどこかナ～？"},"kind":"dialogue"}]};

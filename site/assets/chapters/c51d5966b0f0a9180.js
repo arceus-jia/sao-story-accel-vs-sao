@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c51d5966b0f0a9180"]={"id":"c51d5966b0f0a9180","lines":[{"uid":"TEXT_TALK_WND_SDB_12_ch_sum_010","id":"TEXT_TALK_WND_SDB_12_ch_sum_010","speaker":{"cn":"皇","ja":"スメラギ"},"text":{"cn":"Ｐｉｌｅ好像有事要跟我说啊。","ja":"パイルが俺に話したいことがあるようだ。"},"kind":"dialogue"}]};

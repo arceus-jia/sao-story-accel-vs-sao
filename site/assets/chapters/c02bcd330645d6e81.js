@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c02bcd330645d6e81"]={"id":"c02bcd330645d6e81","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_07_010","id":"TEXT_TALK_WND_TA_ch_met_07_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"到最后有力量拯救仆人的，还是只有我而已。","ja":"結局のところ、しもべを救う力を持っているのは、私だけということです。"},"kind":"dialogue"}]};

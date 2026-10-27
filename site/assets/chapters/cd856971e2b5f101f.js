@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd856971e2b5f101f"]={"id":"cd856971e2b5f101f","lines":[{"uid":"TEXT_TALK_WND_TA_av_uni_01_010","id":"TEXT_TALK_WND_TA_av_uni_01_010","speaker":{"cn":"Nitride Uncia","ja":"ナイトライド・ウニカ"},"text":{"cn":"……有点想活动一下筋骨。","ja":"……なんだか身体を動かしたい気分。"},"kind":"dialogue"}]};

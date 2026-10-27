@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c56f6bdf4052b0d98"]={"id":"c56f6bdf4052b0d98","lines":[{"uid":"TEXT_TALK_BAL_AR_54_010","id":"TEXT_TALK_BAL_AR_54_010","speaker":{},"text":{"cn":"要怎么样才可以变得更强呢。","ja":"どうしたらもっと強くなれるかな。"},"kind":"narration"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c11449576a2b35ed9"]={"id":"c11449576a2b35ed9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_09_010","id":"TEXT_TALK_WND_TA_ch_kir_09_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"突然就想吃点辣的东西啊。","ja":"無性に辛いものが食いたいな。"},"kind":"dialogue"}]};

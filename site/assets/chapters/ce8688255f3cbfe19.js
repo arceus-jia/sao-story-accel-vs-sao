@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce8688255f3cbfe19"]={"id":"ce8688255f3cbfe19","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_05_010","id":"TEXT_TALK_WND_TA_av_cur_05_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"就算是掌控水的我，偶尔也会感到口渴。","ja":"水を司る私でもたまには喉が渇くこともあるの。"},"kind":"dialogue"}]};

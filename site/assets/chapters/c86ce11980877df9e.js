@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c86ce11980877df9e"]={"id":"c86ce11980877df9e","lines":[{"uid":"TEXT_TALK_WND_NTD_ch_asu_010","id":"TEXT_TALK_WND_NTD_ch_asu_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"看来没什么事啊。","ja":"特に用は無さそうね。"},"kind":"dialogue"}]};

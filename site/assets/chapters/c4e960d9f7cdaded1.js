@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4e960d9f7cdaded1"]={"id":"c4e960d9f7cdaded1","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_05_010","id":"TEXT_TALK_WND_TA_ch_sin_05_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"不管我看多少书，眼睛都不会累……这难道也是猫妖的特色吗。","ja":"本を何冊読んでも、目が疲れない……これもやはりケットシーの特徴かしらね。"},"kind":"dialogue"}]};

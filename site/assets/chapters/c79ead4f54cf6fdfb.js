@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c79ead4f54cf6fdfb"]={"id":"c79ead4f54cf6fdfb","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_10_010","id":"TEXT_TALK_WND_TA_av_cro_10_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"话说回来……狂暴补师到底是什么人呢？","ja":"それにしても……バーサクヒーラーって何者なんだろ？"},"kind":"dialogue"}]};

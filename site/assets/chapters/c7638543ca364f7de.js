@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7638543ca364f7de"]={"id":"c7638543ca364f7de","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sum_02_010","id":"TEXT_TALK_WND_TA_ch_sum_02_010","speaker":{"cn":"皇","ja":"スメラギ"},"text":{"cn":"斯瓦特区域产生了什么变化，真让人感兴趣……。","ja":"スヴァルトエリアがどう変化したのか実に興味深い……。"},"kind":"dialogue"}]};

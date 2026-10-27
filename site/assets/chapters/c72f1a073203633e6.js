@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c72f1a073203633e6"]={"id":"c72f1a073203633e6","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_05_010","id":"TEXT_TALK_WND_TA_av_pil_05_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"这个虚拟角色太大了好像挺挡路的。","ja":"このアバター、大きすぎて通行の邪魔かなぁ。"},"kind":"dialogue"}]};

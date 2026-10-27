@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c0082cad78dfef68b"]={"id":"c0082cad78dfef68b","lines":[{"uid":"TEXT_TALK_WND_EP_09_05_010","id":"TEXT_TALK_WND_EP_09_05_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"身穿金色铠甲的火精灵这次好像在沙漠里喔。","ja":"金色の鎧をまとったサラマンダーは今度は砂漠にいるらしいな。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c314f33bd8953fc7d"]={"id":"c314f33bd8953fc7d","lines":[{"uid":"TEXT_TALK_WND_EP_05_04_010","id":"TEXT_TALK_WND_EP_05_04_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"浮岛各处散着一群一群的怪物。身上散发奇怪灵气的是不是老大啊？要去打打看吗……","ja":"浮島に点々とモンスターの群れがいるね。変なオーラをまとったやつは大将かな？ちょっと殴ってみようかなぁ……"},"kind":"dialogue"}]};

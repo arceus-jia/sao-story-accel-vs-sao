@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cef16e2ba441b6568"]={"id":"cef16e2ba441b6568","lines":[{"uid":"TEXT_TALK_WND_SU_40_010","id":"TEXT_TALK_WND_SU_40_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"草原水晶的污染正逐渐被净化。还差一点就能解决了。","ja":"草原の水晶は殆ど穢れが払われている。もう少しだな。"},"kind":"dialogue"}]};

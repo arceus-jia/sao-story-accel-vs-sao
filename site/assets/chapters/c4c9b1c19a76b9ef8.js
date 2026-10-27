@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4c9b1c19a76b9ef8"]={"id":"c4c9b1c19a76b9ef8","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_01_010","id":"TEXT_TALK_WND_TA_ch_rai_01_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"普利维耶特！果然打招呼就是要讲这句啊！","ja":"プリヴィエート！やっぱり挨拶はこうでなくっちゃね！"},"kind":"dialogue"}]};

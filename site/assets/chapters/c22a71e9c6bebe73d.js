@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c22a71e9c6bebe73d"]={"id":"c22a71e9c6bebe73d","lines":[{"uid":"TEXT_TALK_WND_EP_08_03_010","id":"TEXT_TALK_WND_EP_08_03_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"就算想进入冰山中央的神殿，也会被一股神秘力量给推出来……那到底是什么呢？","ja":"氷山中央の神殿に入ろうとしても謎の力で押しかえされてしまう……あれ、なんだろうね？"},"kind":"dialogue"}]};

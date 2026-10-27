@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c105b04b0dca565c9"]={"id":"c105b04b0dca565c9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ali_01_010","id":"TEXT_TALK_WND_TA_ch_ali_01_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"呀呵～！大家过得好吗～？","ja":"ヤッホー！元気にしてるかナ～？"},"kind":"dialogue"}]};

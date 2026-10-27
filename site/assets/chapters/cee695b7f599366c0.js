@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cee695b7f599366c0"]={"id":"cee695b7f599366c0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ego_03_010","id":"TEXT_TALK_WND_TA_ch_ego_03_010","speaker":{"cn":"尤吉欧","ja":"ユージオ"},"text":{"cn":"邀桐人一起去探险好了。","ja":"キリトを誘って探索に行こうかな。"},"kind":"dialogue"}]};

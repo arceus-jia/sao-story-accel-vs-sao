@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c5fec9614096735e4"]={"id":"c5fec9614096735e4","lines":[{"uid":"TEXT_TALK_WND_EP_17_02_010","id":"TEXT_TALK_WND_EP_17_02_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"又见面了呢。那么今后也请多指教了。","ja":"また会えたね。改めて、今後ともよろしくね。"},"kind":"dialogue"}]};

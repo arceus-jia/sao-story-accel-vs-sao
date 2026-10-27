@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3f4d6e3af121bc29"]={"id":"c3f4d6e3af121bc29","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_04_010","id":"TEXT_TALK_WND_TA_ch_kle_04_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"话说回来……那个女孩，既可爱又清纯……啊啊真不错……。","ja":"それにしても……あの娘、可憐で清楚で……はぁ、いいなぁ……。"},"kind":"dialogue"}]};

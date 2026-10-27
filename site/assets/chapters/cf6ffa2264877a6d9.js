@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf6ffa2264877a6d9"]={"id":"cf6ffa2264877a6d9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_asu_06_010","id":"TEXT_TALK_WND_TA_ch_asu_06_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"这个城镇有各式各样的人，很有趣呢。","ja":"この街、いろんな人がいて面白いよね。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cce9bcaef0d70e2aa"]={"id":"cce9bcaef0d70e2aa","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_02_010","id":"TEXT_TALK_WND_TA_ch_phi_02_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"要记得频繁收集情报喔♪","ja":"情報収集は、こまめにね♪"},"kind":"dialogue"}]};

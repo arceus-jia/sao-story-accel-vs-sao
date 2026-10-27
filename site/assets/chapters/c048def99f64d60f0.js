@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c048def99f64d60f0"]={"id":"c048def99f64d60f0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_phi_05_010","id":"TEXT_TALK_WND_TA_ch_phi_05_010","speaker":{"cn":"菲莉亚","ja":"フィリア"},"text":{"cn":"要寻宝的话，我随时奉陪。","ja":"宝探しだったら、いつでもつきあうよ。"},"kind":"dialogue"}]};

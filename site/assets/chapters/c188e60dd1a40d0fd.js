@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c188e60dd1a40d0fd"]={"id":"c188e60dd1a40d0fd","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_04_010","id":"TEXT_TALK_WND_TA_ch_sin_04_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"唉……不自觉就开始找适合狙击的场所了。","ja":"はっ……つい狙撃によさそうな場所を探していたわ。"},"kind":"dialogue"}]};

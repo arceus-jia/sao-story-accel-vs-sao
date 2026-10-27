@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4ba0904f7ccccfcf"]={"id":"c4ba0904f7ccccfcf","lines":[{"uid":"TEXT_TALK_WND_SDB_09_ch_met_020","id":"TEXT_TALK_WND_SDB_09_ch_met_020","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"有事要交代仆人。","ja":"しもべに話があります。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c257203d90cad64d1"]={"id":"c257203d90cad64d1","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_06_010","id":"TEXT_TALK_WND_TA_ch_met_06_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"……我一直都很挂心仆人。","ja":"……しもべのことはいつも気にかけています。"},"kind":"dialogue"}]};

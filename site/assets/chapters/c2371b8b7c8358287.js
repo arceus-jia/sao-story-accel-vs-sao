@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c2371b8b7c8358287"]={"id":"c2371b8b7c8358287","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_01_010","id":"TEXT_TALK_WND_TA_av_rai_01_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"喂——在干嘛？","ja":"おーい、何やってんだ？"},"kind":"dialogue"}]};

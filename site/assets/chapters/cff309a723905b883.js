@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cff309a723905b883"]={"id":"cff309a723905b883","lines":[{"uid":"TEXT_TALK_WND_SDB_01_ch_sev_010","id":"TEXT_TALK_WND_SDB_01_ch_sev_010","speaker":{"cn":"赛玟","ja":"セブン"},"text":{"cn":"好了，桐人人在哪里呢～♪","ja":"さて、キリト君はどこかな～♪"},"kind":"dialogue"}]};

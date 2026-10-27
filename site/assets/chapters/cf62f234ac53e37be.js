@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf62f234ac53e37be"]={"id":"cf62f234ac53e37be","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_05_010","id":"TEXT_TALK_WND_TA_av_rai_05_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"突然超想吃草莓迷宫啊……。","ja":"なんか無性にイチゴのラビリンスが食いてえ……。"},"kind":"dialogue"}]};

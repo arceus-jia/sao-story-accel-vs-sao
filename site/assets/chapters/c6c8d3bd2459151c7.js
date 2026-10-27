@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6c8d3bd2459151c7"]={"id":"c6c8d3bd2459151c7","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ego_01_010","id":"TEXT_TALK_WND_TA_ch_ego_01_010","speaker":{"cn":"尤吉欧","ja":"ユージオ"},"text":{"cn":"好，今天也要努力锻练。","ja":"よし、今日も鍛錬頑張るぞ。"},"kind":"dialogue"}]};

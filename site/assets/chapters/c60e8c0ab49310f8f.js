@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c60e8c0ab49310f8f"]={"id":"c60e8c0ab49310f8f","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_05_010","id":"TEXT_TALK_WND_TA_ch_lis_05_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"如果有想加工强化的武器，不要客气直接说啊。","ja":"強化したい武器があったら遠慮なく言ってよね。"},"kind":"dialogue"}]};

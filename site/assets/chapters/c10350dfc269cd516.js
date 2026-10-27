@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c10350dfc269cd516"]={"id":"c10350dfc269cd516","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_01_010","id":"TEXT_TALK_WND_TA_av_rol_01_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"Ｇｉｇａ久违了，我ｔｅｒａ ｆｉｎｅ！Ｔｈａｎｋ ｙｏｕ！","ja":"ギガおひっさー、アイム・テラファイン！センキュー！"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c75102ef45f2571e7"]={"id":"c75102ef45f2571e7","lines":[{"uid":"TEXT_TALK_WND_TA_ch_vab_01_010","id":"TEXT_TALK_WND_TA_ch_vab_01_010","speaker":{"cn":"佩索娜・梵贝尔","ja":"ペルソナ・ヴァベル"},"text":{"cn":"我很开心能像这样和大家一起生活。","ja":"みんなとこうして過ごせることとても嬉しいです。"},"kind":"dialogue"}]};

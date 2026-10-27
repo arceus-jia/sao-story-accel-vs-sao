@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca264aa07864734b3"]={"id":"ca264aa07864734b3","lines":[{"uid":"TEXT_TALK_WND_EP_08_04_010","id":"TEXT_TALK_WND_EP_08_04_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"总觉得店外很嘈杂啊。发生什么事了吗？","ja":"なんだか店の外が騒がしいね。なにかあったのかな。"},"kind":"dialogue"}]};

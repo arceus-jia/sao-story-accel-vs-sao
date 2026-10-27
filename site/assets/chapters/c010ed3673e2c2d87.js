@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c010ed3673e2c2d87"]={"id":"c010ed3673e2c2d87","lines":[{"uid":"TEXT_ADV_SUB_2460100010","id":"TEXT_ADV_SUB_2460100010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"Ｒｅｃｅｉｖｅ ｍｅｓｓａｇｅ！","ja":"レッシーブ、メッセージ！"},"kind":"dialogue"}]};

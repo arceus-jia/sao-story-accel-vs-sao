@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c25dfeb5e0246f747"]={"id":"c25dfeb5e0246f747","lines":[{"uid":"TEXT_TALK_WND_SDB_06_av_pil_020","id":"TEXT_TALK_WND_SDB_06_av_pil_020","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"莉法小姐，差不多也该来了吧。","ja":"リーファさん、そろそろ来るかな。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c71d3fe755e01ff5d"]={"id":"c71d3fe755e01ff5d","lines":[{"uid":"TEXT_TALK_WND_EP_03_01_010","id":"TEXT_TALK_WND_EP_03_01_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"就是这种时候，同伴才更显重要。比方说，那边有个体格不错的大地精灵大叔感觉就很可靠。","ja":"こういうときだからこそ、仲間が大事だよな。そこのガタイのいいノームのおっさんとか頼りになりそうだな。"},"kind":"dialogue"}]};

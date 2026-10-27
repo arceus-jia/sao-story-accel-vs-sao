@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce16008acebe82165"]={"id":"ce16008acebe82165","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_07_010","id":"TEXT_TALK_WND_TA_ch_yuu_07_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"沉睡骑士的大家不知过得好不好？","ja":"スリーピングナイツのみんな、元気かなぁ？"},"kind":"dialogue"}]};

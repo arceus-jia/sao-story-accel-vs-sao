@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c279485d08e3dcf00"]={"id":"c279485d08e3dcf00","lines":[{"uid":"TEXT_TALK_BAL_CA_61_010","id":"TEXT_TALK_BAL_CA_61_010","speaker":{},"text":{"cn":"也有厕所喔。","ja":"トイレもあるんだ。"},"kind":"narration"}]};

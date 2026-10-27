@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c663b92ce8af6d033"]={"id":"c663b92ce8af6d033","lines":[{"uid":"TEXT_TALK_WND_SDB_11_ch_lis_020","id":"TEXT_TALK_WND_SDB_11_ch_lis_020","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"欸，有看到千百合吗？","ja":"ねえ、チユリしらない？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cfb1f60261e959edf"]={"id":"cfb1f60261e959edf","lines":[{"uid":"TEXT_TALK_WND_EP_17_01_010","id":"TEXT_TALK_WND_EP_17_01_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"发送门那有人在等你喔。是说好要去约会吗？","ja":"ポータルで誰か待ってるぞ。デートの約束でもしてたのか？"},"kind":"dialogue"}]};

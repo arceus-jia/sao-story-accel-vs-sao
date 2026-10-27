@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c150ce5762adcfb19"]={"id":"c150ce5762adcfb19","lines":[{"uid":"TEXT_TALK_BAL_CA_47_010","id":"TEXT_TALK_BAL_CA_47_010","speaker":{},"text":{"cn":"这间咖啡厅气氛真不错。","ja":"いい雰囲気のカフェだね。"},"kind":"narration"}]};

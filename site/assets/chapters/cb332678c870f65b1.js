@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb332678c870f65b1"]={"id":"cb332678c870f65b1","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_06_010","id":"TEXT_TALK_WND_TA_av_mai_06_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"深厚的羁绊会穿越时空，确实传达进对方心中。","ja":"強い絆は時を越え必ず伝わるものなのです。"},"kind":"dialogue"}]};

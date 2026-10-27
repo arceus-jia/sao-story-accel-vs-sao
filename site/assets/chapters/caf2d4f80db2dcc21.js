@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["caf2d4f80db2dcc21"]={"id":"caf2d4f80db2dcc21","lines":[{"uid":"TEXT_TALK_WND_TA_ch_met_05_010","id":"TEXT_TALK_WND_TA_ch_met_05_010","speaker":{"cn":"梅丹佐","ja":"メタトロン"},"text":{"cn":"区区的下等生物，想来是无法了解我这种存在的。","ja":"しょせん下級の者には、私の存在自体理解できてないのでしょう。"},"kind":"dialogue"}]};

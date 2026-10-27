@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c29d51d23b4e5ceed"]={"id":"c29d51d23b4e5ceed","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_02_010","id":"TEXT_TALK_WND_TA_ch_lis_02_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"但愿能发现不错的材料！","ja":"いい素材が見つかることを祈ってるわ！"},"kind":"dialogue"}]};

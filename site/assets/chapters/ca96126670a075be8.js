@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca96126670a075be8"]={"id":"ca96126670a075be8","lines":[{"uid":"TEXT_TALK_WND_SU_13_010","id":"TEXT_TALK_WND_SU_13_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"荒野的水晶现在污染已经没那么严重了。","ja":"荒野の水晶はそこそこ穢れが払われてきたな。"},"kind":"dialogue"}]};

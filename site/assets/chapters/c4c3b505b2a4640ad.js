@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4c3b505b2a4640ad"]={"id":"c4c3b505b2a4640ad","lines":[{"uid":"TEXT_TALK_WND_EP_09_02_010","id":"TEXT_TALK_WND_EP_09_02_010","speaker":{"cn":"圣马利亚成员","ja":"サンタ・マリアメンバー"},"text":{"cn":"话说回来，有个使用二刀流的女孩说她要去沙漠……从那之后就没见她身影了呢。","ja":"そういえば、二刀流の女の子が砂漠に行くって言ってたけど……あの子、あれから姿を見てないなぁ。"},"kind":"dialogue"}]};

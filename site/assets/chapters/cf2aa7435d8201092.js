@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf2aa7435d8201092"]={"id":"cf2aa7435d8201092","lines":[{"uid":"TEXT_TALK_WND_TA_av_cur_06_010","id":"TEXT_TALK_WND_TA_av_cur_06_010","speaker":{"cn":"Aqua Current","ja":"アクア・カレント"},"text":{"cn":"感觉这个城镇跟我很合呢。","ja":"この街とは、相性が良さそうなの。"},"kind":"dialogue"}]};

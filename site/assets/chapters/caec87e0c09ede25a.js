@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["caec87e0c09ede25a"]={"id":"caec87e0c09ede25a","lines":[{"uid":"TEXT_TALK_WND_AR_54_010","id":"TEXT_TALK_WND_AR_54_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"我对力气没有自信所以就用魔法来辅助。用得越多就会变得越强啦！","ja":"私は力に自信がないから魔法でサポートするんだ。バンバン使ってガンガン強くなるの！"},"kind":"dialogue"}]};

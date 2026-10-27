@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8fdfd9fbecb522e6"]={"id":"c8fdfd9fbecb522e6","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_08_010","id":"TEXT_TALK_WND_TA_av_leo_08_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"……我一定要找出艾基尔开店成功的秘密。","ja":"……エギルの店の成功の秘訣つきとめなければ。"},"kind":"dialogue"}]};

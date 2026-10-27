@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c44d3fd605e4fd92a"]={"id":"c44d3fd605e4fd92a","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_03_010","id":"TEXT_TALK_WND_TA_ch_lis_03_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"……小矮妖果然不是主流种族吗？","ja":"……レプラコーンってやっぱマイナーなのかしら？"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c339784f84cd7529c"]={"id":"c339784f84cd7529c","lines":[{"uid":"TEXT_TALK_WND_TA_av_rak_03_010","id":"TEXT_TALK_WND_TA_av_rak_03_010","speaker":{"cn":"Sky Raker","ja":"スカイ・レイカー"},"text":{"cn":"唉，谣谣……让人担心到不敢移开视线……。","ja":"ああ、ういうい……心配で目が離せないわ……。"},"kind":"dialogue"}]};

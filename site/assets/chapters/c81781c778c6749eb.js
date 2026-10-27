@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c81781c778c6749eb"]={"id":"c81781c778c6749eb","lines":[{"uid":"TEXT_TALK_BAL_CA_67_010","id":"TEXT_TALK_BAL_CA_67_010","speaker":{},"text":{"cn":"我的目标是玛丽亚小姐。","ja":"マリアさんは僕の目標なんだ。"},"kind":"narration"}]};

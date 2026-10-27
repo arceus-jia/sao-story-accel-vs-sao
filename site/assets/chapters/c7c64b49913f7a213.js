@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7c64b49913f7a213"]={"id":"c7c64b49913f7a213","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kle_05_010","id":"TEXT_TALK_WND_TA_ch_kle_05_010","speaker":{"cn":"克莱因","ja":"クライン"},"text":{"cn":"好，我决定了……我要成为绅士王！！","ja":"よしっ、決めたっ……俺は紳士王になる！！"},"kind":"dialogue"}]};

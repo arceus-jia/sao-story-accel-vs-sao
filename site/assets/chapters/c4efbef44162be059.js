@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4efbef44162be059"]={"id":"c4efbef44162be059","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sil_04_010","id":"TEXT_TALK_WND_TA_ch_sil_04_010","speaker":{"cn":"西莉卡","ja":"シリカ"},"text":{"cn":"虽然常失败，不过失败为成功之母嘛，一定是的！","ja":"失敗するときもありますがそれは成功の母ですよ、きっと！"},"kind":"dialogue"}]};

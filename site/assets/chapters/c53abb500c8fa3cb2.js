@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c53abb500c8fa3cb2"]={"id":"c53abb500c8fa3cb2","lines":[{"uid":"TEXT_TALK_WND_TA_av_mai_08_010","id":"TEXT_TALK_WND_TA_av_mai_08_010","speaker":{"cn":"Ardor Maiden","ja":"アーダー・メイデン"},"text":{"cn":"最近都是克莱因先生在陪枫姊，所以我轻松了不少。","ja":"最近はクラインさんがフーねえの相手してくれるからとっても楽なのです。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c7fc85bdf3b01e41d"]={"id":"c7fc85bdf3b01e41d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_03_010","id":"TEXT_TALK_WND_TA_ch_agi_03_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"彼此都过得不错就好……以后也继续努力吧。","ja":"お互い元気そうで何よりだ……これからも頑張れよ。"},"kind":"dialogue"}]};

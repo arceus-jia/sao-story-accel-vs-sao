@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c086adf7394cef325"]={"id":"c086adf7394cef325","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sak_03_010","id":"TEXT_TALK_WND_TA_ch_sak_03_010","speaker":{"cn":"朔夜","ja":"サクヤ"},"text":{"cn":"……我偶尔也想尽情放松呢。","ja":"……たまには私だって羽根を伸ばしてみたいのだよ。"},"kind":"dialogue"}]};

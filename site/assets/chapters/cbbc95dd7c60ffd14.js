@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbbc95dd7c60ffd14"]={"id":"cbbc95dd7c60ffd14","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sev_01_010","id":"TEXT_TALK_WND_TA_ch_sev_01_010","speaker":{"cn":"赛玟","ja":"セブン"},"text":{"cn":"大家一起享受游戏，真的是件很棒的事呢！","ja":"みんなでゲームを楽しむって素敵なことだよね！"},"kind":"dialogue"}]};

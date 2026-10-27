@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cab708430b14b2cf5"]={"id":"cab708430b14b2cf5","lines":[{"uid":"TEXT_TALK_WND_TA_ch_agi_01_010","id":"TEXT_TALK_WND_TA_ch_agi_01_010","speaker":{"cn":"艾基尔","ja":"エギル"},"text":{"cn":"唷，有空的话要不要到我店里喝杯茶啊？","ja":"よお、時間があれば俺の店でお茶なんてどうだ？"},"kind":"dialogue"}]};

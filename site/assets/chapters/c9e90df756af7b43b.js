@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9e90df756af7b43b"]={"id":"c9e90df756af7b43b","lines":[{"uid":"TEXT_TALK_WND_SDQ_08_av_rai_010","id":"TEXT_TALK_WND_SDQ_08_av_rai_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"喂，有没有看到春雪？","ja":"おい、ハルユキ見なかったか？"},"kind":"dialogue"}]};

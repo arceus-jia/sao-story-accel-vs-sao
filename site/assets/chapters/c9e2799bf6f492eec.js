@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9e2799bf6f492eec"]={"id":"c9e2799bf6f492eec","lines":[{"uid":"TEXT_TALK_BAL_CA_69_010","id":"TEXT_TALK_BAL_CA_69_010","speaker":{},"text":{"cn":"没有人可以超越仁子大师的！","ja":"ニコ先生の右に出るものはいないぞ！"},"kind":"narration"}]};

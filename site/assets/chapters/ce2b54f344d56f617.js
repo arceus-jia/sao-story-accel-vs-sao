@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce2b54f344d56f617"]={"id":"ce2b54f344d56f617","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sin_02_010","id":"TEXT_TALK_WND_TA_ch_sin_02_010","speaker":{"cn":"诗音","ja":"シノン"},"text":{"cn":"猫妖在十大种族中也是视力最好的。","ja":"ケットシーは十種族の中でも一番視力が優れているのよ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cbf0fa1fe0bbf4df9"]={"id":"cbf0fa1fe0bbf4df9","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lea_05_010","id":"TEXT_TALK_WND_TA_ch_lea_05_010","speaker":{"cn":"莉法","ja":"リーファ"},"text":{"cn":"好～尽情地飞吧——！","ja":"よーし、いっぱい飛ぶぞー！"},"kind":"dialogue"}]};

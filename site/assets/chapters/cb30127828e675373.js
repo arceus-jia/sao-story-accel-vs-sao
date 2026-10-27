@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb30127828e675373"]={"id":"cb30127828e675373","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_02_010","id":"TEXT_TALK_WND_TA_av_cro_02_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"这城镇里……有各式各样的虚拟角色，感觉真的很有趣啊。","ja":"この街……いろんなアバターがいてホント楽しそうだよなぁ。"},"kind":"dialogue"}]};

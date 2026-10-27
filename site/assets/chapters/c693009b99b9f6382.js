@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c693009b99b9f6382"]={"id":"c693009b99b9f6382","lines":[{"uid":"TEXT_TALK_WND_SDQ_05_ch_yui_010","id":"TEXT_TALK_WND_SDQ_05_ch_yui_010","speaker":{"cn":"结衣","ja":"ユイ"},"text":{"cn":"你有看到爸爸吗？","ja":"パパを見ませんでしたか？"},"kind":"dialogue"}]};

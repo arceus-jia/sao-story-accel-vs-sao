@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["caab63a01316ce7da"]={"id":"caab63a01316ce7da","lines":[{"uid":"TEXT_TALK_WND_SDQ_04_ch_asu_010","id":"TEXT_TALK_WND_SDQ_04_ch_asu_010","speaker":{"cn":"亚丝娜","ja":"アスナ"},"text":{"cn":"你有看到桐人吗？","ja":"キリトくん見なかった？"},"kind":"dialogue"}]};

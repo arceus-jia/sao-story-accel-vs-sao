@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf13ee2a7e0eaa5be"]={"id":"cf13ee2a7e0eaa5be","lines":[{"uid":"TEXT_TALK_WND_TA_av_leo_02_010","id":"TEXT_TALK_WND_TA_av_leo_02_010","speaker":{"cn":"Blood Leopard","ja":"ブラッド・レパード"},"text":{"cn":"最短的招呼是Ｋ。","ja":"挨拶は最短でＫ。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ce52514021fa70bf2"]={"id":"ce52514021fa70bf2","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_06_010","id":"TEXT_TALK_WND_TA_ch_rai_06_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"我教的俄文……她都记得清清楚楚呢。","ja":"わたしが教えたロシア語……あの子、ちゃんと覚えてくれてたんだね。"},"kind":"dialogue"}]};

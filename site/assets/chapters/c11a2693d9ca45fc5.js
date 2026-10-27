@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c11a2693d9ca45fc5"]={"id":"c11a2693d9ca45fc5","lines":[{"uid":"TEXT_TALK_WND_TA_av_rol_07_010","id":"TEXT_TALK_WND_TA_av_rol_07_010","speaker":{"cn":"Ash Roller","ja":"アッシュ・ローラー"},"text":{"cn":"Ｄｏｎ’ｔ ｗｏｒｒｙ， ｔｅｒａ ｈａｐｐｙ！！","ja":"ドントウオーリィ、テラハッピィ！！"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c59ce9ff64956664e"]={"id":"c59ce9ff64956664e","lines":[{"uid":"TEXT_TALK_WND_TA_ch_yuu_08_010","id":"TEXT_TALK_WND_TA_ch_yuu_08_010","speaker":{"cn":"有纪","ja":"ユウキ"},"text":{"cn":"最近我身体的状况很好，一定是托大家的福！","ja":"最近、身体の調子よくってさきっと、みんなのおかげだよ！"},"kind":"dialogue"}]};

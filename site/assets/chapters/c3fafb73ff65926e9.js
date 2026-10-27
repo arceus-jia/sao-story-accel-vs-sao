@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c3fafb73ff65926e9"]={"id":"c3fafb73ff65926e9","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_06_010","id":"TEXT_TALK_WND_TA_av_cro_06_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"唔～我的虚拟角色……在这里看起来真的很突兀。","ja":"うーん、僕のアバター……ここだと、すっごく浮いてるよなぁ。"},"kind":"dialogue"}]};

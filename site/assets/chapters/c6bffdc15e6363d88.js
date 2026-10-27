@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c6bffdc15e6363d88"]={"id":"c6bffdc15e6363d88","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_08_010","id":"TEXT_TALK_WND_TA_av_pil_08_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"刚刚擦身而过的火精灵壮汉，感觉相当强啊……。","ja":"今すれ違った、大きなサラマンダーの人すごく強そうな感じだったな……。"},"kind":"dialogue"}]};

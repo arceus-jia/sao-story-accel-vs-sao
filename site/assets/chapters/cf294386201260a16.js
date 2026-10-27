@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf294386201260a16"]={"id":"cf294386201260a16","lines":[{"uid":"TEXT_TALK_WND_TA_ch_sev_02_010","id":"TEXT_TALK_WND_TA_ch_sev_02_010","speaker":{"cn":"赛玟","ja":"セブン"},"text":{"cn":"我想去老板店里喝好喝的奶茶！","ja":"マスターのお店で美味しいミルクティ飲みたいな！"},"kind":"dialogue"}]};

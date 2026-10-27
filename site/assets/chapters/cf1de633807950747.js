@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf1de633807950747"]={"id":"cf1de633807950747","lines":[{"uid":"TEXT_TALK_WND_SU_04_010","id":"TEXT_TALK_WND_SU_04_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"看来你在异界完成了突发任务。那么未知的水晶应该就是对应异界的样子。","ja":"異界でサドンクエストをクリアしたようだな。どうやら正体不明の水晶は異界に対応していたようだ。"},"kind":"dialogue"}]};

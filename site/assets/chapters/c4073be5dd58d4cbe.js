@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c4073be5dd58d4cbe"]={"id":"c4073be5dd58d4cbe","lines":[{"uid":"TEXT_TALK_WND_SU_30_010","id":"TEXT_TALK_WND_SU_30_010","speaker":{"cn":"海可瑟","ja":"ヘクセ"},"text":{"cn":"异界的污染已经完全去除了。","ja":"異界の穢れは完全に払われているぞ。"},"kind":"dialogue"}]};

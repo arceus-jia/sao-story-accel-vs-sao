@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8edaf2ac64672d7d"]={"id":"c8edaf2ac64672d7d","lines":[{"uid":"TEXT_TALK_WND_TA_ch_rai_04_010","id":"TEXT_TALK_WND_TA_ch_rai_04_010","speaker":{"cn":"伶茵","ja":"レイン"},"text":{"cn":"斯巴希拔！这是谢谢的意思喔。","ja":"スパスィーバ！ありがとって意味だよ。"},"kind":"dialogue"}]};

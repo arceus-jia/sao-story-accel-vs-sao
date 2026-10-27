@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cf4938a1910621ec0"]={"id":"cf4938a1910621ec0","lines":[{"uid":"TEXT_TALK_WND_TA_ch_lis_01_010","id":"TEXT_TALK_WND_TA_ch_lis_01_010","speaker":{"cn":"莉兹贝特","ja":"リズベット"},"text":{"cn":"振作点啊？我对你可是很期待的呢！","ja":"しっかりやってよ？期待してるんだからね！"},"kind":"dialogue"}]};

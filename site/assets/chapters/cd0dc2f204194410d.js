@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cd0dc2f204194410d"]={"id":"cd0dc2f204194410d","lines":[{"uid":"TEXT_TALK_BAL_CA_65_010","id":"TEXT_TALK_BAL_CA_65_010","speaker":{},"text":{"cn":"唉～Ｍａｉｄｅｎ好可爱……","ja":"はあ～メイデンちゃんかわいい……。"},"kind":"narration"}]};

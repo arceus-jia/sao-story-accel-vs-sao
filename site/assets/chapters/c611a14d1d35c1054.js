@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c611a14d1d35c1054"]={"id":"c611a14d1d35c1054","lines":[{"uid":"TEXT_TALK_WND_TA_ch_kir_07_010","id":"TEXT_TALK_WND_TA_ch_kir_07_010","speaker":{"cn":"桐人","ja":"キリト"},"text":{"cn":"虽然强敌不少，但我们加油吧。","ja":"強い敵が多いけど、頑張ろうな。"},"kind":"dialogue"}]};

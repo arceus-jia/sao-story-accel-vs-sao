@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c9ab4becfbec596a3"]={"id":"c9ab4becfbec596a3","lines":[{"uid":"TEXT_TALK_WND_EP_03_03_010","id":"TEXT_TALK_WND_EP_03_03_010","speaker":{"cn":"玩家","ja":"プレイヤー"},"text":{"cn":"在靠近风车的洞窟前，有个猫妖女孩喔。是个很聒噪的女孩……。","ja":"風車近くの洞窟の前にケットシーの女の子がいたよ。よくしゃべる子だったな……。"},"kind":"dialogue"}]};

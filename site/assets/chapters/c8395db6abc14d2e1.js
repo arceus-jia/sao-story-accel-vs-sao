@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c8395db6abc14d2e1"]={"id":"c8395db6abc14d2e1","lines":[{"uid":"TEXT_TALK_WND_TA_av_rai_07_010","id":"TEXT_TALK_WND_TA_av_rai_07_010","speaker":{"cn":"Scarlet Rain","ja":"スカーレット・レイン"},"text":{"cn":"艾基尔店里的点心还满不赖的。","ja":"エギルの店のスイーツ悪くなかったぜ。"},"kind":"dialogue"}]};

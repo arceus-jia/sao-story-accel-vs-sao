@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c22383c96f07c1456"]={"id":"c22383c96f07c1456","lines":[{"uid":"TEXT_TALK_WND_TA_av_pil_03_010","id":"TEXT_TALK_WND_TA_av_pil_03_010","speaker":{"cn":"Cyan Pile","ja":"シアン・パイル"},"text":{"cn":"……桐人先生的剑术我实在学不来。","ja":"……キリトさんの剣術あれは僕には真似できないな。"},"kind":"dialogue"}]};

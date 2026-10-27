@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca6e8450951a7b271"]={"id":"ca6e8450951a7b271","lines":[{"uid":"TEXT_TALK_WND_TA_av_cro_01_010","id":"TEXT_TALK_WND_TA_av_cro_01_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"哎呀～我在街上尽情观光了一番。","ja":"いやー、いっぱい街中を見物して回ったなぁ。"},"kind":"dialogue"}]};

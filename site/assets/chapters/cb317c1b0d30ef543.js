@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["cb317c1b0d30ef543"]={"id":"cb317c1b0d30ef543","lines":[{"uid":"TEXT_TALK_WND_NTD_av_cro_010","id":"TEXT_TALK_WND_NTD_av_cro_010","speaker":{"cn":"Silver Crow","ja":"シルバー・クロウ"},"text":{"cn":"没什么事呢。","ja":"特に用は無いですね。"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["ca8be519e0e6788fe"]={"id":"ca8be519e0e6788fe","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ali_03_010","id":"TEXT_TALK_WND_TA_ch_ali_03_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"领主的工作我也有好好在做喔♪","ja":"領主の仕事もちゃ～んとこなしてるヨ♪"},"kind":"dialogue"}]};

@@ -1,0 +1,1 @@
+window.STORY_CHAPTERS["c803bdd7fbde8c868"]={"id":"c803bdd7fbde8c868","lines":[{"uid":"TEXT_TALK_WND_TA_ch_ali_05_010","id":"TEXT_TALK_WND_TA_ch_ali_05_010","speaker":{"cn":"亚丽莎．露","ja":"アリシャ・ルー"},"text":{"cn":"哎唷，差不多该回去工作了……领主大人可是很忙的喔。","ja":"おっと、そろそろ仕事に戻らないとネ……領主サマは忙しいのヨ。"},"kind":"dialogue"}]};
